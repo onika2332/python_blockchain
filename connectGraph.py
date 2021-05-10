@@ -1,5 +1,6 @@
 #write code for connecting graph
 #write function to import data, update data, delete data, retrieve data
+import json
 from neo4j import GraphDatabase
 class MyGraph:
     #constructor
@@ -32,38 +33,51 @@ class MyGraph:
                     msg += "{}:{},".format(key,value)
                 count += 1 
             else:
-                msg += ("{}:{}".format(key,value) + "})"
-        
+                msg += ("{}:{}".format(key,value) + "})")
+        (msg)
         #print(msg)
-        #self.driver.session().run(msg)
+        self.session.run(msg)
         
-    
-    # # add multi node to graph
-    # def add_multi_node(self, **kwargs):
-    #     assert kwargs is not None, "no data to import"
+    @classmethod
+    def add_node_from_json(self, filename1='acc.json',filename12='fico1.json'):
+        f1 = open('acc.json')
+        f2 = open('fico1.json')
 
+        data1 = json.load(f1)  # from acc.json, we have id, 
+        data2 = json.load(f2)  # from fico1.json, we have avarage, balance, history, fico
 
-    # # add relation ship between 2 node
-    # @classmethod
-    # def add_relationship(self, **node1_label, **condition_property, **relationship):
+        info = {}
+        info["id"] = []
+        info["label"] = []
+        info["average"] = []
+        info["balance"] = []
+        info["history"] = []
+        info["fico"] = []
         
-    #     assert node1_label is not None and relationship is not None, "invalid data to import relationship"
+        for key, value in data1.items():    
+            info["id"].append(key)
+            info["label"].append(value)
 
-    #     #MATCH part
-    #     msg_part1 = "MATCH "
-
-    # #delete a node, multi node, all node
-    # # add multi node to graph
-    # # search a node
+        for obj in data2:
+            info["average"].append(obj["average_transaction"])
+            info["balance"].append(obj["balance"])
+            info["history"].append(obj["history"])
+            info["fico"].append(obj["fico"])
         
+        for i in range(0,len(info["id"])):
+            if i < len(info["fico"]):
+                self.add_one_node(
+                                label = "N" + str(info["label"][i]),
+                                id = str(info["id"][i]),
+                                average = str(info["average"][i]),
+                                balance = str(info["balance"][i]),
+                                history = str(info["history"][i]),
+                                fico = str(info["fico"][i]))
+            else:
+                self.add_one_node(label = "N" + str(info["label"][i]),
+                                    id = str(info["id"][i]))
+
 if __name__ == '__main__':
     new_graph = MyGraph("bolt://localhost:7687","neo4j","3.14159265")
-    new_graph.add_one_node(label="node1",
-                        txn_hash=0x123456,
-                      block=7273509,
-                       age="",
-                      tx_from="def",
-                      tx_to="xyz",
-                      value=0.00,
-                      txn_fee=0.00044548)
+    new_graph.add_node_from_json()
     new_graph.close()
