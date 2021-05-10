@@ -1,0 +1,6407 @@
+[
+    {
+        "address": "0x788cabe9236ce061e5a892e1a59395a81fc8d62c",
+        "average_transaction": 158.34854550168845,
+        "balance": 157.27669330615822,
+        "history": 249,
+        "fico": 189
+    },
+    {
+        "address": "0x4a31fbeb36c0c933100d63a3a4f6693d5872d62a",
+        "average_transaction": 235.59309073091174,
+        "balance": 157.46634198937576,
+        "history": 248,
+        "fico": 216
+    },
+    {
+        "address": "0x9d268b312ea48716a5ee4dc53bf52eba1f05d316",
+        "average_transaction": 0,
+        "balance": 178.49706493814898,
+        "history": 248,
+        "fico": 140
+    },
+    {
+        "address": "0xb3501faeacfd0a37a7ce90b3d5af97b122a1348b",
+        "average_transaction": 183.00069142724965,
+        "balance": 0,
+        "history": 248,
+        "fico": 150
+    },
+    {
+        "address": "0xa3fd5cc5ba356433b28209d812ff0cf261881e1b",
+        "average_transaction": 0,
+        "balance": 183.97043926630545,
+        "history": 252,
+        "fico": 143
+    },
+    {
+        "address": "0x186dae6185db59eee0adc8f2afae61c179e20316",
+        "average_transaction": 0,
+        "balance": 179.9913054128737,
+        "history": 248,
+        "fico": 140
+    },
+    {
+        "address": "0x099b59774b2c1a514c94202fab37c3483ef1f8db",
+        "average_transaction": 186.20982773054146,
+        "balance": 174.7610844411435,
+        "history": 250,
+        "fico": 205
+    },
+    {
+        "address": "0x9a16f6d888fc5996cafeba2488a3f942817856b9",
+        "average_transaction": 160.14723256820704,
+        "balance": 168.3730217667379,
+        "history": 251,
+        "fico": 194
+    },
+    {
+        "address": "0x7ece4c0aee67d67ac882e99767b0e30d45d68c29",
+        "average_transaction": 170.35381646362384,
+        "balance": 160.2556194155581,
+        "history": 248,
+        "fico": 194
+    },
+    {
+        "address": "0x77f51b90c00f0d88d12045706aa5c364375d2cc1",
+        "average_transaction": 0,
+        "balance": 185.97475789870373,
+        "history": 248,
+        "fico": 142
+    },
+    {
+        "address": "0x1663b4c30ca274c59ac330e6d2465af9dbd66ba1",
+        "average_transaction": 0,
+        "balance": 189.54145988829544,
+        "history": 248,
+        "fico": 143
+    },
+    {
+        "address": "0xacb6b4dbdd6ef3c00f6e6be485b75e6cae886e96",
+        "average_transaction": 182.96665190261533,
+        "balance": 162.78756198574644,
+        "history": 248,
+        "fico": 199
+    },
+    {
+        "address": "0x4e43175278e7982a962dfa0b25f46bdf7bbb1db7",
+        "average_transaction": 179.99817558002096,
+        "balance": 0,
+        "history": 248,
+        "fico": 149
+    },
+    {
+        "address": "0x4498c4f1868a92b1150df30359877344ffa8ae4c",
+        "average_transaction": 0,
+        "balance": 195.35692379902173,
+        "history": 248,
+        "fico": 145
+    },
+    {
+        "address": "0x5c821c7edf1ac66ad7717c423f00ad57db2901e8",
+        "average_transaction": 165.453014205533,
+        "balance": 159.23315575887915,
+        "history": 248,
+        "fico": 192
+    },
+    {
+        "address": "0xa255e858f03ed05db702e44c49a2a2c509f4bce4",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 248,
+        "fico": 134
+    },
+    {
+        "address": "0xa972c5de9aeb1b5c6eb802ad71db51d1b59e76fe",
+        "average_transaction": 178.11384960459293,
+        "balance": 0,
+        "history": 248,
+        "fico": 149
+    },
+    {
+        "address": "0x2ec8f83a3d4f7afb3fc03b912b10d9f83515a91c",
+        "average_transaction": 194.6464458713013,
+        "balance": 0,
+        "history": 248,
+        "fico": 154
+    },
+    {
+        "address": "0xda9888f2af3b39346dd89ea47005207cb6eae696",
+        "average_transaction": 0,
+        "balance": 179.99999999999997,
+        "history": 248,
+        "fico": 140
+    },
+    {
+        "address": "0x6b8e9480b76bf98768660c9108471a0386cf16be",
+        "average_transaction": 188.60222317008862,
+        "balance": 0,
+        "history": 248,
+        "fico": 152
+    },
+    {
+        "address": "0x6b8ba5e380492af4b84fd01a9ce2fc1379062a7a",
+        "average_transaction": 179.99794747362543,
+        "balance": 0,
+        "history": 248,
+        "fico": 149
+    },
+    {
+        "address": "0x65a267d0a1d92bbd0cf093a2b3e6bf413a785785",
+        "average_transaction": 168.9784086851223,
+        "balance": 184.32118205844523,
+        "history": 248,
+        "fico": 201
+    },
+    {
+        "address": "0x72af20bdae54756576b3725e73b75391e599a191",
+        "average_transaction": 182.30607458374783,
+        "balance": 0,
+        "history": 251,
+        "fico": 151
+    },
+    {
+        "address": "0xa3e4bac00155cb3c5e6c5775fe39be03079930c9",
+        "average_transaction": 182.1103778638639,
+        "balance": 177.25422825005379,
+        "history": 251,
+        "fico": 204
+    },
+    {
+        "address": "0x18d8f9f338175b3d30fcd285c96773eb00ce0e29",
+        "average_transaction": 0,
+        "balance": 185.14151724016693,
+        "history": 248,
+        "fico": 142
+    },
+    {
+        "address": "0x107b5b9edac14bc55fd078ee17d87fed26c0991c",
+        "average_transaction": 180.63957299879374,
+        "balance": 0,
+        "history": 248,
+        "fico": 150
+    },
+    {
+        "address": "0x2055772d6938631eb6628ea652233dfbc0fbe0a2",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 248,
+        "fico": 134
+    },
+    {
+        "address": "0x0be970a615cb1f8515d9d6d96bc6226fb544cd42",
+        "average_transaction": 0,
+        "balance": 183.5755371974308,
+        "history": 248,
+        "fico": 141
+    },
+    {
+        "address": "0xbd34c47d394ad6e51a11bc24e4fa43842766b014",
+        "average_transaction": 171.18298941813478,
+        "balance": 181.32935186827785,
+        "history": 247,
+        "fico": 200
+    },
+    {
+        "address": "0xdb25ff2868cbc48856e44a2ae8e2f2b62f1f3b84",
+        "average_transaction": 0,
+        "balance": 161.96537347930243,
+        "history": 247,
+        "fico": 135
+    },
+    {
+        "address": "0x54226e7a034151f8f8eaf93c2209615840f3cc71",
+        "average_transaction": 159.5477192748582,
+        "balance": 0,
+        "history": 247,
+        "fico": 142
+    },
+    {
+        "address": "0xaa4baa510f4396ec311da02da244766124f5cdae",
+        "average_transaction": 0,
+        "balance": 170.4059407341001,
+        "history": 247,
+        "fico": 137
+    },
+    {
+        "address": "0x5a1d1ae6f64c1d07a7300696c1e0136e607b8a24",
+        "average_transaction": 183.00055431931986,
+        "balance": 0,
+        "history": 247,
+        "fico": 150
+    },
+    {
+        "address": "0x459bc3f1c8eb39be18ea873ffc43e9d12c32e766",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 247,
+        "fico": 134
+    },
+    {
+        "address": "0x05e17ffeadd4e17be24cb76247e6431bdfeb708f",
+        "average_transaction": 0,
+        "balance": 160.0,
+        "history": 247,
+        "fico": 134
+    },
+    {
+        "address": "0x593c23523ae5553879cf15faf10ff70d06c64fc6",
+        "average_transaction": 179.98048680680006,
+        "balance": 0,
+        "history": 247,
+        "fico": 149
+    },
+    {
+        "address": "0x3d5367b818cbfab0147299f0d818be6d260fa581",
+        "average_transaction": 0,
+        "balance": 169.91226075692492,
+        "history": 247,
+        "fico": 137
+    },
+    {
+        "address": "0xff18bba970c578459cf1bd0ecc62bff01cbd07c5",
+        "average_transaction": 178.74481817699464,
+        "balance": 176.9624443643155,
+        "history": 247,
+        "fico": 202
+    },
+    {
+        "address": "0x85f2a46d3deb5f798e793443b13cd507ead1d9de",
+        "average_transaction": 168.9885325070892,
+        "balance": 0,
+        "history": 247,
+        "fico": 145
+    },
+    {
+        "address": "0x257f32d8606cf7d77490dc6c3767cf52fdc5f37e",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 247,
+        "fico": 134
+    },
+    {
+        "address": "0x0adaf3d35373c2134998e4c0c8c5419c22d36f6e",
+        "average_transaction": 0,
+        "balance": 187.53037329607207,
+        "history": 247,
+        "fico": 142
+    },
+    {
+        "address": "0xae1f48653ab26d13a706db78988c28c493321ae2",
+        "average_transaction": 178.8195890194433,
+        "balance": 179.73423315033844,
+        "history": 247,
+        "fico": 202
+    },
+    {
+        "address": "0x7219486e015a88320e1037606591473e2a950cbb",
+        "average_transaction": 206.01866035537938,
+        "balance": 179.55515080328698,
+        "history": 247,
+        "fico": 212
+    },
+    {
+        "address": "0x910add50d1a25bce2a59f5b541af7cfd2796dea5",
+        "average_transaction": 0,
+        "balance": 171.47075686291797,
+        "history": 247,
+        "fico": 137
+    },
+    {
+        "address": "0x392011208492f21e71184bf460bcf6b9051762e1",
+        "average_transaction": 192.55128198853228,
+        "balance": 151.8127177155946,
+        "history": 247,
+        "fico": 199
+    },
+    {
+        "address": "0xa4c776d410df2203a2ea3e09a94d1596acf71d6b",
+        "average_transaction": 186.27161887978687,
+        "balance": 145.7978861541137,
+        "history": 247,
+        "fico": 195
+    },
+    {
+        "address": "0x3a334c6748a437fb4144e72ea88b6a2dec7c5ef1",
+        "average_transaction": 195.18241972411084,
+        "balance": 0,
+        "history": 247,
+        "fico": 154
+    },
+    {
+        "address": "0x45b69a7f775bbf43341d6c7db4f448060de0b6a4",
+        "average_transaction": 193.39042395462917,
+        "balance": 167.07212852250876,
+        "history": 247,
+        "fico": 204
+    },
+    {
+        "address": "0x3ee94c2716d0a99af9564114ad2dee92accdb241",
+        "average_transaction": 199.24808964945464,
+        "balance": 157.95391874063202,
+        "history": 247,
+        "fico": 203
+    },
+    {
+        "address": "0x2e0ddb710a53ba6ff2f871a5b13bfa88044d39a6",
+        "average_transaction": 187.69281928051353,
+        "balance": 170.63215216286193,
+        "history": 247,
+        "fico": 203
+    },
+    {
+        "address": "0x9f2b4211f564a44e95cfa4fd6010029037777777",
+        "average_transaction": 196.35929374747744,
+        "balance": 173.97911198439715,
+        "history": 247,
+        "fico": 207
+    },
+    {
+        "address": "0x59ee6454c8e29255ce9c92a43f9d1e3f306cd0f9",
+        "average_transaction": 199.61092158471484,
+        "balance": 0,
+        "history": 247,
+        "fico": 156
+    },
+    {
+        "address": "0x5924c1c3ccc7d4d80ae786d3f3dfd81a5b6e446e",
+        "average_transaction": 194.39443227449246,
+        "balance": 180.6098510741116,
+        "history": 247,
+        "fico": 208
+    },
+    {
+        "address": "0xdcbeffbecce100cce9e4b153c4e15cb885643193",
+        "average_transaction": 200.54036293265705,
+        "balance": 179.987648489255,
+        "history": 247,
+        "fico": 210
+    },
+    {
+        "address": "0xa120bbe6675b86d7df30319a36a1f2a0b53bc2a5",
+        "average_transaction": 193.4646270230178,
+        "balance": 161.06268900839734,
+        "history": 247,
+        "fico": 202
+    },
+    {
+        "address": "0x999999ec10300ad1ce680ee9758df02070284e82",
+        "average_transaction": 197.8477931872315,
+        "balance": 176.1222489648479,
+        "history": 246,
+        "fico": 208
+    },
+    {
+        "address": "0x7e77ec9fe746a81f26d5525d0337cc7f424219bf",
+        "average_transaction": 190.31597882599743,
+        "balance": 189.29418984365753,
+        "history": 246,
+        "fico": 209
+    },
+    {
+        "address": "0x4059e94f431b2c48373c3cf962b257b7a4b1dc63",
+        "average_transaction": 194.57615153847573,
+        "balance": 170.4026404803074,
+        "history": 246,
+        "fico": 205
+    },
+    {
+        "address": "0x505f0f5a833fa6df50d56ebba3f5a1ed500539bb",
+        "average_transaction": 177.14723986100051,
+        "balance": 167.12962320981703,
+        "history": 246,
+        "fico": 198
+    },
+    {
+        "address": "0x98950e788229c798a9e3a257c515a2a8340c6cf8",
+        "average_transaction": 183.00925100880048,
+        "balance": 0,
+        "history": 246,
+        "fico": 150
+    },
+    {
+        "address": "0x70acb1bc926487350d434ce232d7a7417510d959",
+        "average_transaction": 198.0345558163295,
+        "balance": 183.4899060484846,
+        "history": 246,
+        "fico": 210
+    },
+    {
+        "address": "0x1aff7b57be51b547ce599b8c38636d3b7b246e17",
+        "average_transaction": 205.23141951501867,
+        "balance": 170.4189148497632,
+        "history": 247,
+        "fico": 209
+    },
+    {
+        "address": "0xd17ed5578944896820d4482259efdf766f7b8317",
+        "average_transaction": 197.8189690303339,
+        "balance": 164.15340372121082,
+        "history": 246,
+        "fico": 204
+    },
+    {
+        "address": "0xae617520c30d3a5fa8b3ced55dd642cceca48005",
+        "average_transaction": 0,
+        "balance": 187.82003318314128,
+        "history": 246,
+        "fico": 142
+    },
+    {
+        "address": "0x2aee860ee21136eadc7fc1041032d7b74f4e9989",
+        "average_transaction": 174.20349265189128,
+        "balance": 172.60666819921278,
+        "history": 246,
+        "fico": 198
+    },
+    {
+        "address": "0xa40f81d9b8273cf98bd0bb8bcecdd126311897d9",
+        "average_transaction": 189.87334361840044,
+        "balance": 165.62567020776646,
+        "history": 246,
+        "fico": 202
+    },
+    {
+        "address": "0x5a5bd8dc6eabf5fe04273c1d989570288b6630ef",
+        "average_transaction": 201.06799769311291,
+        "balance": 181.91407082777917,
+        "history": 246,
+        "fico": 211
+    },
+    {
+        "address": "0xbce3e255c79370fc94ecbf2c982ecd4d13867bf4",
+        "average_transaction": 195.32868842774124,
+        "balance": 159.78415579142543,
+        "history": 246,
+        "fico": 202
+    },
+    {
+        "address": "0x45aacfadf72aec271d862fb8731f5083f4964635",
+        "average_transaction": 0,
+        "balance": 184.39016728387512,
+        "history": 246,
+        "fico": 141
+    },
+    {
+        "address": "0x952c23f8f067a5e7e165ff0e42491f51d87dbc95",
+        "average_transaction": 197.08964728316207,
+        "balance": 173.65832348251394,
+        "history": 246,
+        "fico": 207
+    },
+    {
+        "address": "0x6d32782fa03d7182d43db3636170170c9fd5e6b0",
+        "average_transaction": 204.10784258267628,
+        "balance": 173.69476103649032,
+        "history": 246,
+        "fico": 209
+    },
+    {
+        "address": "0xa6a61568169285e4658400998048b78adc3aefa9",
+        "average_transaction": 185.83776770732865,
+        "balance": 157.17324778580297,
+        "history": 246,
+        "fico": 198
+    },
+    {
+        "address": "0x746c7757501193af295797d4f338121cf22a4acd",
+        "average_transaction": 200.15028029718678,
+        "balance": 165.3424123786107,
+        "history": 246,
+        "fico": 205
+    },
+    {
+        "address": "0x88394cd26c754b3f7f0d3d308082c00f512e07f0",
+        "average_transaction": 197.06487213786343,
+        "balance": 172.35756427667292,
+        "history": 246,
+        "fico": 206
+    },
+    {
+        "address": "0x653fa0603986a1119e99efa9271bdb94f2fd4b06",
+        "average_transaction": 198.14936730780389,
+        "balance": 180.46205542550553,
+        "history": 246,
+        "fico": 209
+    },
+    {
+        "address": "0x53c218ee4b05f817fab41afd2c66fd92550a8888",
+        "average_transaction": 186.76673223852117,
+        "balance": 190.8815636300813,
+        "history": 246,
+        "fico": 208
+    },
+    {
+        "address": "0x87882d214e91b2fb8f76d60f37f02c9ac3b7d019",
+        "average_transaction": 186.58953107641725,
+        "balance": 152.70026065774826,
+        "history": 246,
+        "fico": 197
+    },
+    {
+        "address": "0x4e340d8e5368f66fe1ad62e67e651580a157d58e",
+        "average_transaction": 0,
+        "balance": 175.0427129945496,
+        "history": 246,
+        "fico": 138
+    },
+    {
+        "address": "0xb66ba7a4d5230a4304ef12fd478e6aed82e9c70f",
+        "average_transaction": 191.08789734408612,
+        "balance": 169.07800407138848,
+        "history": 246,
+        "fico": 203
+    },
+    {
+        "address": "0x46f9a1dc80df2e5d1cc0efd24f4ec341523753d3",
+        "average_transaction": 171.3726678088946,
+        "balance": 171.8743607647502,
+        "history": 246,
+        "fico": 197
+    },
+    {
+        "address": "0x89f9b9599a77badd9af7c54afdb1c56840213127",
+        "average_transaction": 199.7343266256058,
+        "balance": 169.24591197302823,
+        "history": 246,
+        "fico": 206
+    },
+    {
+        "address": "0x65dca2ba9c48b704e5c326d46ff779db580b96c7",
+        "average_transaction": 172.0159180020562,
+        "balance": 0,
+        "history": 246,
+        "fico": 146
+    },
+    {
+        "address": "0xc2ac59c6492e3df7cb789528fa8c75eff5065950",
+        "average_transaction": 171.5920424992362,
+        "balance": 0,
+        "history": 246,
+        "fico": 146
+    },
+    {
+        "address": "0x3b65fe09a97894da9954c79b28da1d16b7b1b8b3",
+        "average_transaction": 199.3250171527886,
+        "balance": 181.50657503462674,
+        "history": 246,
+        "fico": 210
+    },
+    {
+        "address": "0x9b2ded50854ac0c631f1c4e48bbac760246a624b",
+        "average_transaction": 195.91814400704573,
+        "balance": 140.00609359554312,
+        "history": 246,
+        "fico": 196
+    },
+    {
+        "address": "0x7be9d8809ae56b5ce480e045613d5559db1b55c8",
+        "average_transaction": 190.9975789510703,
+        "balance": 0,
+        "history": 246,
+        "fico": 152
+    },
+    {
+        "address": "0xc8d4c55af2a273713ff19d238b3febacf8d5802d",
+        "average_transaction": 196.98856680624203,
+        "balance": 170.10085547659133,
+        "history": 248,
+        "fico": 206
+    },
+    {
+        "address": "0xaaece97196bd1d3c64bbbc682e82cfaf1324d568",
+        "average_transaction": 195.11558626969375,
+        "balance": 178.04692754712005,
+        "history": 246,
+        "fico": 207
+    },
+    {
+        "address": "0xf96487ebdf499ca1dfde9812654acb3b913ebab2",
+        "average_transaction": 200.5724348620796,
+        "balance": 162.1808072629875,
+        "history": 246,
+        "fico": 204
+    },
+    {
+        "address": "0xc2e439b425b44f9167f06d88c0ffa1bb399b5a19",
+        "average_transaction": 195.72025437781943,
+        "balance": 152.81714141397433,
+        "history": 246,
+        "fico": 200
+    },
+    {
+        "address": "0xf28a5aade37eda75a2743f0700e76ae3ecdb6175",
+        "average_transaction": 198.1660942468017,
+        "balance": 162.6272162075254,
+        "history": 246,
+        "fico": 204
+    },
+    {
+        "address": "0x331248f7e2a8ff4694f14e3226f0ce60345e8bde",
+        "average_transaction": 184.12790381417824,
+        "balance": 180.46274170834067,
+        "history": 246,
+        "fico": 204
+    },
+    {
+        "address": "0xb0d5ebdfbe29fa286806234ddabc25a0211636ea",
+        "average_transaction": 193.03450524354514,
+        "balance": 175.81496095864114,
+        "history": 246,
+        "fico": 206
+    },
+    {
+        "address": "0x3737d637396eeba9628b35d5ba6055a94ed61845",
+        "average_transaction": 0,
+        "balance": 189.4141204037355,
+        "history": 246,
+        "fico": 142
+    },
+    {
+        "address": "0xa753a56d6b2c1a4a5f19b17f5e43cf5b4c325341",
+        "average_transaction": 198.47436525680794,
+        "balance": 165.5692863961372,
+        "history": 246,
+        "fico": 205
+    },
+    {
+        "address": "0x0d30ca8dc55d1b5ef9cba4fa504da8341e252cec",
+        "average_transaction": 200.3555102168355,
+        "balance": 171.05819171138467,
+        "history": 246,
+        "fico": 207
+    },
+    {
+        "address": "0xcb1e059e19b8fec6b06e2e307704baf9e44afb38",
+        "average_transaction": 0,
+        "balance": 185.93064431658715,
+        "history": 246,
+        "fico": 141
+    },
+    {
+        "address": "0x46313820820f6a867b5bd94be928f2dc109b36af",
+        "average_transaction": 0,
+        "balance": 190.99630839383468,
+        "history": 246,
+        "fico": 143
+    },
+    {
+        "address": "0x917cfd637b5d954b5a9cd32151224106e1c53ac4",
+        "average_transaction": 184.52048329172723,
+        "balance": 166.5185985011301,
+        "history": 246,
+        "fico": 200
+    },
+    {
+        "address": "0x7f58f6087f09fe006de15708e5f6987ce7707992",
+        "average_transaction": 177.63763978117308,
+        "balance": 169.9031181290667,
+        "history": 246,
+        "fico": 199
+    },
+    {
+        "address": "0xfd56bfa25342b25fe1ec88197d7597ab0bcac319",
+        "average_transaction": 183.3086437049502,
+        "balance": 0,
+        "history": 246,
+        "fico": 150
+    },
+    {
+        "address": "0x8e3593bbc00e154aea2acdf31e8b55b50863f50e",
+        "average_transaction": 0,
+        "balance": 199.999913140235,
+        "history": 246,
+        "fico": 146
+    },
+    {
+        "address": "0xe8af1475e115859259ae5347029c70a017957d71",
+        "average_transaction": 179.08500529884816,
+        "balance": 167.50134493844243,
+        "history": 246,
+        "fico": 199
+    },
+    {
+        "address": "0xce11ce656318dccf9c7e9bd62d92bb2c4f2574f7",
+        "average_transaction": 177.17130431863964,
+        "balance": 175.21653706255975,
+        "history": 246,
+        "fico": 200
+    },
+    {
+        "address": "0x813da576ab0225483767c32d5557e545ccb5a088",
+        "average_transaction": 0,
+        "balance": 173.9719932224406,
+        "history": 245,
+        "fico": 137
+    },
+    {
+        "address": "0xe636d737fd5db1ab89a1300814bd18bf711234ac",
+        "average_transaction": 178.44660423020485,
+        "balance": 181.45690418684467,
+        "history": 245,
+        "fico": 202
+    },
+    {
+        "address": "0x7c1fe4c2077a629e89a66a72e4744bbfb2165808",
+        "average_transaction": 0,
+        "balance": 168.80839706308586,
+        "history": 245,
+        "fico": 136
+    },
+    {
+        "address": "0x2ee1982997a5d5fc1820d1a4b4ba9038c87b203e",
+        "average_transaction": 0,
+        "balance": 172.79263871374042,
+        "history": 245,
+        "fico": 137
+    },
+    {
+        "address": "0xf16ea2c725856c2bb54a76e2b39e3b863d37dca7",
+        "average_transaction": 0,
+        "balance": 179.9913054128737,
+        "history": 245,
+        "fico": 139
+    },
+    {
+        "address": "0xaf7f9203ef15e3efd4c52237ff28edb7ec51774a",
+        "average_transaction": 179.98057841837402,
+        "balance": 0,
+        "history": 245,
+        "fico": 148
+    },
+    {
+        "address": "0xe61531bbc634169bbece9616592b91a8fc8fb1ca",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 245,
+        "fico": 133
+    },
+    {
+        "address": "0x84ff04d0febf7f517fa03d01dc7f777231dcdc83",
+        "average_transaction": 186.98817974660602,
+        "balance": 189.9984797032459,
+        "history": 245,
+        "fico": 208
+    },
+    {
+        "address": "0xff8a662fab0745a5032ccf326fd14b235fa88c2b",
+        "average_transaction": 202.86162773546778,
+        "balance": 183.0380637873298,
+        "history": 245,
+        "fico": 211
+    },
+    {
+        "address": "0x78dccbac4bff0f2475a9ab0425f48ff627bc5c4b",
+        "average_transaction": 0,
+        "balance": 171.3954851917239,
+        "history": 245,
+        "fico": 137
+    },
+    {
+        "address": "0xbb637a937e864795cb00f6681661904836ac8a59",
+        "average_transaction": 212.5866790926173,
+        "balance": 170.6603305074266,
+        "history": 245,
+        "fico": 211
+    },
+    {
+        "address": "0x77578ab902bb68ed775099ae1fb2dfe763a51e23",
+        "average_transaction": 185.3846105499322,
+        "balance": 171.77017922744156,
+        "history": 245,
+        "fico": 202
+    },
+    {
+        "address": "0x2b035ba73d2a86f7aaa3d2cce437c385e7146e3b",
+        "average_transaction": 178.7442668373356,
+        "balance": 0,
+        "history": 245,
+        "fico": 148
+    },
+    {
+        "address": "0x7ac0ba405b7cb03fbd6cfa7ca7f0ae43419cdd18",
+        "average_transaction": 199.92346124584085,
+        "balance": 189.49004469574976,
+        "history": 245,
+        "fico": 212
+    },
+    {
+        "address": "0xe36140038d04787bc6303b9f1196c7f65aaf27f8",
+        "average_transaction": 0,
+        "balance": 170.40450666542233,
+        "history": 245,
+        "fico": 136
+    },
+    {
+        "address": "0x112a6a20c69da8aa432e68b7f67e823f1a05195b",
+        "average_transaction": 195.31768537413555,
+        "balance": 188.62048441970953,
+        "history": 245,
+        "fico": 210
+    },
+    {
+        "address": "0xf3feb87037962e25ad1d5faaee519d4ab88a8235",
+        "average_transaction": 181.75511813363445,
+        "balance": 176.9682625605676,
+        "history": 244,
+        "fico": 202
+    },
+    {
+        "address": "0xd2aa195d683cb782685ebdac2b76788349ef6579",
+        "average_transaction": 178.47373185892195,
+        "balance": 178.3271995148761,
+        "history": 248,
+        "fico": 202
+    },
+    {
+        "address": "0xa7f2adb560684682c8adca919a1996f3e0cb6767",
+        "average_transaction": 183.52763161754694,
+        "balance": 0,
+        "history": 244,
+        "fico": 149
+    },
+    {
+        "address": "0xb440c58e211bb78bfc9df30af8fd7e8efba042fe",
+        "average_transaction": 162.90413062122929,
+        "balance": 0,
+        "history": 244,
+        "fico": 142
+    },
+    {
+        "address": "0x2940c2ea60c3a180e23fcf32971a3724df98ee59",
+        "average_transaction": 161.1645620145955,
+        "balance": 160.7058344118418,
+        "history": 244,
+        "fico": 190
+    },
+    {
+        "address": "0x8d7aa7487145201141409b3d8ae9957c0da8ff23",
+        "average_transaction": 185.14249953003315,
+        "balance": 0,
+        "history": 244,
+        "fico": 150
+    },
+    {
+        "address": "0x29d004776cf3968d9f2e811d29cf12871603e054",
+        "average_transaction": 0,
+        "balance": 174.42485538714547,
+        "history": 244,
+        "fico": 137
+    },
+    {
+        "address": "0x18dd34b6bace0c4778b056d4926702226c5e98b1",
+        "average_transaction": 0,
+        "balance": 183.4202768808747,
+        "history": 244,
+        "fico": 140
+    },
+    {
+        "address": "0x38e81e598c44871acccf8e432f97200c0c280ff5",
+        "average_transaction": 186.27558583213627,
+        "balance": 157.46634198937576,
+        "history": 244,
+        "fico": 197
+    },
+    {
+        "address": "0xf12d400fbd8db918b48f58d34afebaf0e3317bc5",
+        "average_transaction": 181.06190897263414,
+        "balance": 176.78327138111453,
+        "history": 244,
+        "fico": 201
+    },
+    {
+        "address": "0x5641690b04ec1d4962d027cef5c233b3cdf2c052",
+        "average_transaction": 180.76396398549542,
+        "balance": 172.60846489781818,
+        "history": 244,
+        "fico": 200
+    },
+    {
+        "address": "0xcf4dc01b8e3a6e21c1e426128b5efb302388467b",
+        "average_transaction": 195.06330392782488,
+        "balance": 183.26762571293105,
+        "history": 244,
+        "fico": 208
+    },
+    {
+        "address": "0x7f5372735e5f5338582d1f32a586e4b423ad6999",
+        "average_transaction": 168.6311766546419,
+        "balance": 173.59257215296876,
+        "history": 244,
+        "fico": 196
+    },
+    {
+        "address": "0x782ec68a4de2edbc0a0b3a581ee2e6bdd39b310f",
+        "average_transaction": 193.59831964364417,
+        "balance": 168.35512791375592,
+        "history": 244,
+        "fico": 203
+    },
+    {
+        "address": "0xaf62d4322e35323da92a562c0e9a5568b3b30229",
+        "average_transaction": 208.56992029994694,
+        "balance": 184.20253807296228,
+        "history": 244,
+        "fico": 213
+    },
+    {
+        "address": "0x461ec1249afec5cfcd4c6e34278f1457e398ba2e",
+        "average_transaction": 164.31363764158985,
+        "balance": 159.30286647245518,
+        "history": 244,
+        "fico": 190
+    },
+    {
+        "address": "0xd1ae05a5ff96c7ecbbb3a01d796661a2395e5f33",
+        "average_transaction": 191.2291225875001,
+        "balance": 167.96784145269942,
+        "history": 244,
+        "fico": 202
+    },
+    {
+        "address": "0x5bbfda5e4c988dc032426b23ff701c9579fd42b1",
+        "average_transaction": 0,
+        "balance": 162.13110896842252,
+        "history": 244,
+        "fico": 134
+    },
+    {
+        "address": "0x1c481c5c8e78afccb94442b91361e18d3de74a89",
+        "average_transaction": 183.79451872740165,
+        "balance": 0,
+        "history": 244,
+        "fico": 149
+    },
+    {
+        "address": "0xa039cb184444b9c5e7ee24f812835b0798035061",
+        "average_transaction": 174.78589609256503,
+        "balance": 0,
+        "history": 244,
+        "fico": 146
+    },
+    {
+        "address": "0xc53549c472a86b67e028287a89c1004feb55bdab",
+        "average_transaction": 196.28538026908444,
+        "balance": 183.3392463521753,
+        "history": 244,
+        "fico": 209
+    },
+    {
+        "address": "0x1659ff9ffa1d634b4d0a024beca22118e262161f",
+        "average_transaction": 189.99979023069926,
+        "balance": 0,
+        "history": 244,
+        "fico": 151
+    },
+    {
+        "address": "0x4db5aaec2ba841c0959a7954cf934a3d0a59a266",
+        "average_transaction": 0,
+        "balance": 168.09077952976762,
+        "history": 244,
+        "fico": 135
+    },
+    {
+        "address": "0x07ea67d8d83466aadd1df150c45ac1a28255e423",
+        "average_transaction": 207.1372626159681,
+        "balance": 0,
+        "history": 244,
+        "fico": 157
+    },
+    {
+        "address": "0x595572ba4e9a455991d492b78cf9236308f493d6",
+        "average_transaction": 190.19684158874614,
+        "balance": 0,
+        "history": 244,
+        "fico": 151
+    },
+    {
+        "address": "0xd967b133974461ad19f4ebf8d54e8b8ee2ccac73",
+        "average_transaction": 197.19032532440696,
+        "balance": 157.83903579272734,
+        "history": 244,
+        "fico": 201
+    },
+    {
+        "address": "0x8362465814af1457d5ca44c172827489b17941cc",
+        "average_transaction": 192.5493555492643,
+        "balance": 157.46634198937576,
+        "history": 245,
+        "fico": 200
+    },
+    {
+        "address": "0xf50ed7a7087985083820ad6a3cfc1aefef55ba6a",
+        "average_transaction": 171.70391583282577,
+        "balance": 177.19793213158582,
+        "history": 244,
+        "fico": 198
+    },
+    {
+        "address": "0xb079a72c627d0a34b880aee0504b901cbce64568",
+        "average_transaction": 195.27237697311682,
+        "balance": 161.98766550413507,
+        "history": 243,
+        "fico": 201
+    },
+    {
+        "address": "0x524480f73177b8c815906ddbed22c6faf177907f",
+        "average_transaction": 191.66446580900245,
+        "balance": 169.16322324217379,
+        "history": 245,
+        "fico": 203
+    },
+    {
+        "address": "0x4fa2e0e9605650930a4d0704b0e6a1b5323681a7",
+        "average_transaction": 183.64882639661568,
+        "balance": 0,
+        "history": 243,
+        "fico": 149
+    },
+    {
+        "address": "0x0893e261df2746be959baab62a7e64e27c3ca9bd",
+        "average_transaction": 197.06366931393472,
+        "balance": 0,
+        "history": 243,
+        "fico": 154
+    },
+    {
+        "address": "0xc23f364554e9272d3ee29397b4312e2e06cddca9",
+        "average_transaction": 189.99979023069926,
+        "balance": 0,
+        "history": 243,
+        "fico": 151
+    },
+    {
+        "address": "0x3290458d69788302c7dca753896f3c0a10952368",
+        "average_transaction": 168.38197485991006,
+        "balance": 179.41323706136617,
+        "history": 243,
+        "fico": 197
+    },
+    {
+        "address": "0xdba2fc0002be99df384db39ad3d69746d23cc407",
+        "average_transaction": 0,
+        "balance": 169.91226075692492,
+        "history": 243,
+        "fico": 136
+    },
+    {
+        "address": "0x0868e82759da09d83bb58660f8c3981df03425be",
+        "average_transaction": 172.7797116648293,
+        "balance": 0,
+        "history": 243,
+        "fico": 145
+    },
+    {
+        "address": "0xbc554d0fa1745aeb52acba8343106cf8aca038ca",
+        "average_transaction": 179.4068819034021,
+        "balance": 181.59203346243066,
+        "history": 243,
+        "fico": 202
+    },
+    {
+        "address": "0xe9f2e23a4ec8ddd7820ba8731627e9ad9e2de1f5",
+        "average_transaction": 0,
+        "balance": 173.6219279195728,
+        "history": 243,
+        "fico": 137
+    },
+    {
+        "address": "0x60ff54a44835fcc96121cb250e76bca420489fc0",
+        "average_transaction": 198.36196620080602,
+        "balance": 174.51903850080873,
+        "history": 243,
+        "fico": 206
+    },
+    {
+        "address": "0x53d2fd6caf8f3b59e3f0cfd183b8e336b5b8eaf0",
+        "average_transaction": 0,
+        "balance": 190.12318291287355,
+        "history": 243,
+        "fico": 142
+    },
+    {
+        "address": "0x2f80abef2a0caa7d858c69ea2fccb8a39956a969",
+        "average_transaction": 201.30987839789407,
+        "balance": 159.58854032589073,
+        "history": 243,
+        "fico": 203
+    },
+    {
+        "address": "0x9aea6d1a679bb5eba7cf1205d5c2358b2179e338",
+        "average_transaction": 194.50835124669504,
+        "balance": 157.83903579272734,
+        "history": 243,
+        "fico": 200
+    },
+    {
+        "address": "0xb73e8814aa8636476e901b530381c8c20ed50c5c",
+        "average_transaction": 211.59026100999068,
+        "balance": 157.52377310952934,
+        "history": 243,
+        "fico": 206
+    },
+    {
+        "address": "0xd04a17753744d551e0e4661be4c86b11d4a7150b",
+        "average_transaction": 192.8912921652921,
+        "balance": 158.05840548814672,
+        "history": 243,
+        "fico": 199
+    },
+    {
+        "address": "0xf97d48e4dfe60cd774421235d65c4a86c91c50f3",
+        "average_transaction": 203.2627740541567,
+        "balance": 157.52372702442713,
+        "history": 243,
+        "fico": 203
+    },
+    {
+        "address": "0x3a9732371ad7a1f08f76872a3ec0524c5dfa5710",
+        "average_transaction": 197.73292822337442,
+        "balance": 157.32774003110978,
+        "history": 244,
+        "fico": 201
+    },
+    {
+        "address": "0x858ba667c2057bdbac82a38b845ba42bc98efcfa",
+        "average_transaction": 181.1162794305267,
+        "balance": 160.221100606479,
+        "history": 243,
+        "fico": 196
+    },
+    {
+        "address": "0x9633415ee513faa6e58577a225c463d170754085",
+        "average_transaction": 194.03100722846978,
+        "balance": 157.44402912226303,
+        "history": 243,
+        "fico": 200
+    },
+    {
+        "address": "0x6e98f84f598aadccf57c9654f312fd211c511be0",
+        "average_transaction": 179.27407322698795,
+        "balance": 157.46634198937576,
+        "history": 248,
+        "fico": 196
+    },
+    {
+        "address": "0x16d65100e3eaec555f18d5097d72fa4dd6bb7baf",
+        "average_transaction": 174.07082139840045,
+        "balance": 168.59603938037202,
+        "history": 243,
+        "fico": 196
+    },
+    {
+        "address": "0xd96d4d120cc6d3cf5349f9193bc4c6d4f59477c6",
+        "average_transaction": 199.37568400053482,
+        "balance": 157.91299327096002,
+        "history": 248,
+        "fico": 203
+    },
+    {
+        "address": "0x064469b71356f407037e011d71a15d4a308088e3",
+        "average_transaction": 194.00904229001247,
+        "balance": 158.51838447687587,
+        "history": 243,
+        "fico": 200
+    },
+    {
+        "address": "0xebf9e8add9139dfb328d7417cecd4697812ae9d3",
+        "average_transaction": 177.3050577335778,
+        "balance": 157.98650645445267,
+        "history": 244,
+        "fico": 194
+    },
+    {
+        "address": "0xb76b88baadf6a33544a50ce755dba88c8e40de64",
+        "average_transaction": 197.1949511112072,
+        "balance": 200.12157018191243,
+        "history": 243,
+        "fico": 214
+    },
+    {
+        "address": "0x9cc6993876a39b0c9f4fb73f1f4fb2569a4968c8",
+        "average_transaction": 193.01800553524404,
+        "balance": 0,
+        "history": 243,
+        "fico": 152
+    },
+    {
+        "address": "0xbae571f3764c81ce22e3819962bf21f8e0521b80",
+        "average_transaction": 175.57517001491678,
+        "balance": 144.0337793172286,
+        "history": 243,
+        "fico": 189
+    },
+    {
+        "address": "0x30eaaeb0485f586f6ce9c8424c2e21dde0218a31",
+        "average_transaction": 172.53438277266036,
+        "balance": 177.64063896493738,
+        "history": 243,
+        "fico": 198
+    },
+    {
+        "address": "0x2a55a3ab4e538fefa03cb5d7c97bc85368256fb0",
+        "average_transaction": 176.4535923583764,
+        "balance": 0,
+        "history": 243,
+        "fico": 146
+    },
+    {
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 249,
+        "fico": 87
+    },
+    {
+        "address": "0x370b8eaad4e5970a853d25cd26a499150fd38274",
+        "average_transaction": 175.85577407380129,
+        "balance": 195.48187787769703,
+        "history": 242,
+        "fico": 204
+    },
+    {
+        "address": "0x70329d60a0b0899121df8955f816fa7e41f2dc4a",
+        "average_transaction": 0,
+        "balance": 167.05477634173934,
+        "history": 242,
+        "fico": 134
+    },
+    {
+        "address": "0x8b6adf38ee86cec8a4fc4a7fe4383e5e94ddec3f",
+        "average_transaction": 0,
+        "balance": 160.04618828113362,
+        "history": 242,
+        "fico": 132
+    },
+    {
+        "address": "0xc70adab0545642aabc35e3938f106764a0112ab8",
+        "average_transaction": 0,
+        "balance": 179.8640712311644,
+        "history": 242,
+        "fico": 138
+    },
+    {
+        "address": "0xe59a7a2b391d5ea0859437d6846f82f64f088b08",
+        "average_transaction": 0,
+        "balance": 172.9666519026153,
+        "history": 242,
+        "fico": 136
+    },
+    {
+        "address": "0x9bfbcb723a7ab79dbeadf2644d5cd692f57e0166",
+        "average_transaction": 204.47152638472517,
+        "balance": 151.8127177155946,
+        "history": 242,
+        "fico": 201
+    },
+    {
+        "address": "0xb4f01cf17f2c8ad19c54b3e054f504a27bbad84d",
+        "average_transaction": 0,
+        "balance": 160.7672052412084,
+        "history": 242,
+        "fico": 132
+    },
+    {
+        "address": "0x44e67a287738ea1d9329a382d731bf2cdbaa3cda",
+        "average_transaction": 180.16383499591342,
+        "balance": 179.42466426016836,
+        "history": 242,
+        "fico": 201
+    },
+    {
+        "address": "0xa463bac8e21ee6297666ebdf136a576aab4777ae",
+        "average_transaction": 170.06941660579187,
+        "balance": 152.69584153335057,
+        "history": 242,
+        "fico": 190
+    },
+    {
+        "address": "0x439b1da8da29c867319cf2cbb60e552dbeb602f5",
+        "average_transaction": 0,
+        "balance": 184.60276191640102,
+        "history": 242,
+        "fico": 140
+    },
+    {
+        "address": "0x4fe5c23e5f67572e7b612cd8b56fe1d04a1be832",
+        "average_transaction": 0,
+        "balance": 169.80382656506325,
+        "history": 242,
+        "fico": 135
+    },
+    {
+        "address": "0xcb744534a44083acd8c3b0b0b2d6e06faa50b9aa",
+        "average_transaction": 187.72449612922767,
+        "balance": 189.49762256261974,
+        "history": 242,
+        "fico": 207
+    },
+    {
+        "address": "0x0e8196b0efe6e0062da1b1d9f03f0a3ab3d53c77",
+        "average_transaction": 185.0737630536488,
+        "balance": 174.72134060189694,
+        "history": 242,
+        "fico": 201
+    },
+    {
+        "address": "0xf7a9072cacbc1538922f0efb1c0e8fdf1474525f",
+        "average_transaction": 204.8571607313728,
+        "balance": 158.05840548814672,
+        "history": 243,
+        "fico": 204
+    },
+    {
+        "address": "0x2e7322731cf15bc9e5f5facdc3eb82d1ae0f73db",
+        "average_transaction": 188.80121667843352,
+        "balance": 166.9874549162012,
+        "history": 243,
+        "fico": 201
+    },
+    {
+        "address": "0x547a82604e99dca450f55eeb9fa2270cc8fae3a1",
+        "average_transaction": 204.2133189710629,
+        "balance": 170.37351106398648,
+        "history": 242,
+        "fico": 207
+    },
+    {
+        "address": "0x38b8a4884ee918aafa12c3da7b35ea96a91e9e16",
+        "average_transaction": 0,
+        "balance": 199.93268653091644,
+        "history": 241,
+        "fico": 144
+    },
+    {
+        "address": "0xf06b404e9c8ab8ae3e660e2e0af8c053363538b5",
+        "average_transaction": 231.05803755806565,
+        "balance": 173.3335250533367,
+        "history": 242,
+        "fico": 217
+    },
+    {
+        "address": "0x8587926d47fda3a6729be32fe03ea53517aec784",
+        "average_transaction": 172.91184524827594,
+        "balance": 0,
+        "history": 241,
+        "fico": 144
+    },
+    {
+        "address": "0x1933de05d2bdfc5ee47e8925be1414e407305421",
+        "average_transaction": 191.29848101204064,
+        "balance": 173.87159112282234,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0x0db42e7da84ba29038b00b402011df170407109a",
+        "average_transaction": 0,
+        "balance": 208.0429822428962,
+        "history": 241,
+        "fico": 146
+    },
+    {
+        "address": "0xa1c6bf9a94e603c0c7e0559a9bbe6329137239f7",
+        "average_transaction": 180.1464272304982,
+        "balance": 190.16993311869908,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 248,
+        "fico": 86
+    },
+    {
+        "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 248,
+        "fico": 86
+    },
+    {
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 249,
+        "fico": 87
+    },
+    {
+        "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+        "average_transaction": 0,
+        "balance": 0,
+        "history": 242,
+        "fico": 84
+    },
+    {
+        "address": "0x16cb928661d83240088cf96ebc0c4ec2e1a66820",
+        "average_transaction": 190.0003383940708,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0x63d7857b91e97afa201c6ea3ca85b659322ac36e",
+        "average_transaction": 178.75712819138084,
+        "balance": 164.37165648321655,
+        "history": 241,
+        "fico": 196
+    },
+    {
+        "address": "0xfe8ef37c3708b9e517fe9b791e45fea5d2f7c538",
+        "average_transaction": 0,
+        "balance": 173.9037139438388,
+        "history": 241,
+        "fico": 136
+    },
+    {
+        "address": "0xd965952823153e5cbc611be87e8322cfc329f056",
+        "average_transaction": 207.44612164461316,
+        "balance": 181.36988424371617,
+        "history": 241,
+        "fico": 211
+    },
+    {
+        "address": "0xe8aa21cc21594dc2d81bf6dd28a4dcfaf0a8f57e",
+        "average_transaction": 189.3158243792992,
+        "balance": 173.11034406402385,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0x361245956ae846c7aafa1a47012c70fd6c1c722e",
+        "average_transaction": 183.06261616299543,
+        "balance": 0,
+        "history": 241,
+        "fico": 148
+    },
+    {
+        "address": "0x0103a4966daba5a947df52b0b892d8b3fdef5a4f",
+        "average_transaction": 206.80328808167613,
+        "balance": 176.74179009227882,
+        "history": 241,
+        "fico": 209
+    },
+    {
+        "address": "0xb7da682f63241dd984937958411cd846398a6cc2",
+        "average_transaction": 192.8534595370618,
+        "balance": 178.09796150555857,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0x479097d2e200c194843ae6ab0acf54969427772b",
+        "average_transaction": 203.24948301446074,
+        "balance": 176.93510340213226,
+        "history": 241,
+        "fico": 208
+    },
+    {
+        "address": "0xd5065dec24919bbded718fa8c75f664b6c33172d",
+        "average_transaction": 182.01984166463325,
+        "balance": 179.87133920905353,
+        "history": 242,
+        "fico": 202
+    },
+    {
+        "address": "0xb7a5e79cee08fe5cdf8b8dfa21ff59bfa0b92e1e",
+        "average_transaction": 200.8635122370082,
+        "balance": 161.96304323751573,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0x9c2ef8bfe54a3d5076e8574a5e107e4ef91ed768",
+        "average_transaction": 179.10451162706516,
+        "balance": 171.53257984221483,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0x710981e8bddd736c6796e968115b70697681221a",
+        "average_transaction": 170.42751980420948,
+        "balance": 178.4184240782686,
+        "history": 242,
+        "fico": 197
+    },
+    {
+        "address": "0xe1eb9cf168db37c31b4bdf73511bf44e2b8027ef",
+        "average_transaction": 192.1991934855347,
+        "balance": 180.44106476295087,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0x274020467ccb3be088e6809143c1efe5279c3a50",
+        "average_transaction": 195.197809323529,
+        "balance": 179.81439277920853,
+        "history": 246,
+        "fico": 208
+    },
+    {
+        "address": "0xf43a28ceea7080ef2d9972e92f7d52af203763c4",
+        "average_transaction": 192.62107091969287,
+        "balance": 168.53280725108422,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0x51e777c655e2714fb5a3c4bb52ae8aa8467d61bd",
+        "average_transaction": 170.0,
+        "balance": 169.95090880057748,
+        "history": 241,
+        "fico": 194
+    },
+    {
+        "address": "0x882668c887286d3dd0eb894a78eb92798484978d",
+        "average_transaction": 192.52999146426336,
+        "balance": 167.50278697935568,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0xd8b879ba3ee5a8f4cf624fa67242103a7893b6a5",
+        "average_transaction": 178.22603899255972,
+        "balance": 141.30848183102856,
+        "history": 241,
+        "fico": 189
+    },
+    {
+        "address": "0x2c8a0ac337be86cebbfce3bc62c6d1df1328323c",
+        "average_transaction": 178.45037160464426,
+        "balance": 163.51579781859107,
+        "history": 241,
+        "fico": 195
+    },
+    {
+        "address": "0x4b843a291b37ce69481a0c5df85886acc74c6ff6",
+        "average_transaction": 204.0225668176927,
+        "balance": 179.92023655893524,
+        "history": 241,
+        "fico": 209
+    },
+    {
+        "address": "0x430bde44aca10ec962c83bfcae24afa1cf9ddb8b",
+        "average_transaction": 187.31804320644275,
+        "balance": 0,
+        "history": 241,
+        "fico": 149
+    },
+    {
+        "address": "0xdf7b69c22b96f2c7e07687971551021058260451",
+        "average_transaction": 195.85627565286245,
+        "balance": 181.30351842239165,
+        "history": 241,
+        "fico": 207
+    },
+    {
+        "address": "0x92937771564b812170e0f6df66b15e26f2c7ee1a",
+        "average_transaction": 176.96841094883268,
+        "balance": 136.98970004336016,
+        "history": 241,
+        "fico": 187
+    },
+    {
+        "address": "0x1301efb83a768a909c02c4cb1dc8b4020737a537",
+        "average_transaction": 169.60519982868703,
+        "balance": 178.77010194744128,
+        "history": 241,
+        "fico": 197
+    },
+    {
+        "address": "0x47b306c725fe30223663189701e1c336fec2f520",
+        "average_transaction": 188.30320458896668,
+        "balance": 173.36449236370345,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0xc4ef45f2b9c02fd3df75c03470b5dcc1f6422147",
+        "average_transaction": 179.77854150710237,
+        "balance": 177.42162333667903,
+        "history": 241,
+        "fico": 200
+    },
+    {
+        "address": "0xbec6b2ec621dd0b8a27d4bc81c8655026f0a4e53",
+        "average_transaction": 178.22734559984605,
+        "balance": 141.46128035678237,
+        "history": 241,
+        "fico": 189
+    },
+    {
+        "address": "0x25a620685c38e076fc2b9445e049ff8c8d2d18df",
+        "average_transaction": 197.2974579263946,
+        "balance": 0,
+        "history": 241,
+        "fico": 153
+    },
+    {
+        "address": "0xe9bf3bc2d805df45bc1028319c788b91258f21af",
+        "average_transaction": 195.80521674154326,
+        "balance": 162.61321500538833,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0x69e874f26aa1fb3841bf1003a08247ab96ca0426",
+        "average_transaction": 202.65119482533848,
+        "balance": 151.9228373741022,
+        "history": 241,
+        "fico": 200
+    },
+    {
+        "address": "0xdbcfd333629f6b02f150d36e087d48b67bdf43de",
+        "average_transaction": 181.78257869485552,
+        "balance": 188.37062661808432,
+        "history": 242,
+        "fico": 204
+    },
+    {
+        "address": "0x0c0057af75d6fcb35566621e8639ba06755c4c29",
+        "average_transaction": 198.45255377678848,
+        "balance": 174.0791093511966,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0xe69e7d52c133f1fe56fe80613cb158037c509254",
+        "average_transaction": 198.28886028066893,
+        "balance": 169.8608237985306,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0xfc2ecdfec1a4d51416ef91aab467e20fb3ee9837",
+        "average_transaction": 199.63702081669385,
+        "balance": 176.20775704222035,
+        "history": 241,
+        "fico": 207
+    },
+    {
+        "address": "0x9b3dedee4534fee9dbecd6238df2c6a77804f331",
+        "average_transaction": 189.6552466815208,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0xdbcb292cb9117c684b74012a51adc14b110aef17",
+        "average_transaction": 195.94490769101097,
+        "balance": 180.00343743681248,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0x712803f4259a3f23c8ab7888255a0bf887e641cf",
+        "average_transaction": 194.95366474531974,
+        "balance": 166.7511045928799,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0xba7442d9182cbec3606861ae023eea951f0b30fd",
+        "average_transaction": 176.58239062121942,
+        "balance": 176.84305960579388,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0xbc53412321f9402c5d87f007225412dc27bdee14",
+        "average_transaction": 193.65285343364548,
+        "balance": 0,
+        "history": 241,
+        "fico": 152
+    },
+    {
+        "address": "0x4a9ddf94244eda9804631c24937de5b251e7443b",
+        "average_transaction": 197.43394419047235,
+        "balance": 173.9000460314048,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0x23e14e5dc6e9156c841a9ac4936a4dae084f108f",
+        "average_transaction": 195.57999231879475,
+        "balance": 0,
+        "history": 241,
+        "fico": 152
+    },
+    {
+        "address": "0x2d9a115147fb764a3600f59958ba31533d07a63b",
+        "average_transaction": 193.13488776344158,
+        "balance": 0,
+        "history": 241,
+        "fico": 151
+    },
+    {
+        "address": "0x97b04c20ca1cf1e89249b7b7b7462eb382e943e7",
+        "average_transaction": 180.49000321686862,
+        "balance": 170.16221870794027,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0x0e1b4d0d39738c30f6045776a94d92b4d9a5bdc1",
+        "average_transaction": 179.98912904358787,
+        "balance": 142.04119982655922,
+        "history": 241,
+        "fico": 189
+    },
+    {
+        "address": "0x5335b32a896a29da7f3e3fe3d144d9e8326d0010",
+        "average_transaction": 200.92410563657472,
+        "balance": 170.63316802486435,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0xf5ec8189e583df6f059539f6b808c5231e100d2f",
+        "average_transaction": 194.81414142583014,
+        "balance": 167.58454036418533,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0x34e69e411655a94e0a73ce2a787d730588628d32",
+        "average_transaction": 190.71683216884313,
+        "balance": 160.53846426852255,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0xddc4d99b16ab07097139b0194b7a18e40e46c8a3",
+        "average_transaction": 188.784573274909,
+        "balance": 172.51005721826442,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0xfccf9d521a38ec8f715a9cab6bb4647a5256ad36",
+        "average_transaction": 159.0308998699194,
+        "balance": 158.5766231433102,
+        "history": 241,
+        "fico": 187
+    },
+    {
+        "address": "0xae80597fa2c3296378a4472e364d104ca0f47617",
+        "average_transaction": 186.75254637692532,
+        "balance": 187.99209744924588,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0x7356ece4705bfbd926bc787ccc758fd9406283c0",
+        "average_transaction": 192.2924751667095,
+        "balance": 172.4040619208263,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0x63b59bab1794b7d0c5b7e6d8acfafc52f90c6f6a",
+        "average_transaction": 188.30451298217878,
+        "balance": 158.01489777676002,
+        "history": 241,
+        "fico": 197
+    },
+    {
+        "address": "0x7c9ec14e0f63e632ede8c0a4e78f26dfa1a041f2",
+        "average_transaction": 194.52550643889467,
+        "balance": 0,
+        "history": 241,
+        "fico": 152
+    },
+    {
+        "address": "0xbcfd5dbec5f49230210e0be85cee183097e840aa",
+        "average_transaction": 208.12590171315517,
+        "balance": 157.77675075061816,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0x27e14bfcaee57e93125d13b0b4dd003a1c952049",
+        "average_transaction": 201.57622438118858,
+        "balance": 177.42038570121323,
+        "history": 241,
+        "fico": 208
+    },
+    {
+        "address": "0xc965e082b0082449047501032f0e9e7f3dc5cc12",
+        "average_transaction": 159.2682867075141,
+        "balance": 168.19811555621132,
+        "history": 241,
+        "fico": 190
+    },
+    {
+        "address": "0x5c0634c64b5ab93bbcef70c77e8a56537b762e01",
+        "average_transaction": 177.91232270680734,
+        "balance": 0,
+        "history": 241,
+        "fico": 146
+    },
+    {
+        "address": "0x9554324d73b75fdf12d35e44480a7a9f87d960e9",
+        "average_transaction": 182.43689443393578,
+        "balance": 178.17189307396515,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0xcccb99a42c079bb9eec95d77cec152905a909408",
+        "average_transaction": 169.47020412457815,
+        "balance": 0,
+        "history": 241,
+        "fico": 143
+    },
+    {
+        "address": "0xd2d6e8658c8c6fe40c20c0a9882078661d2baf11",
+        "average_transaction": 179.87398526833655,
+        "balance": 0,
+        "history": 241,
+        "fico": 147
+    },
+    {
+        "address": "0xbf7ff68e6b2ebd89bd7d934b2aff98f67e46ee24",
+        "average_transaction": 188.26007848479478,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0xeeccfc98ff2731017604381a547a294bace35cc0",
+        "average_transaction": 164.77121254719663,
+        "balance": 164.66536956384226,
+        "history": 241,
+        "fico": 191
+    },
+    {
+        "address": "0x917176e92cac77a9f503897bae9ca43d8a2ec0fb",
+        "average_transaction": 192.05701429101248,
+        "balance": 170.63569243691796,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0x7ac7398fbf5b495bc4e7683600586c6bfd84e80c",
+        "average_transaction": 199.10033133530874,
+        "balance": 0,
+        "history": 241,
+        "fico": 154
+    },
+    {
+        "address": "0x7463da06cfb4b1743ebc8d2404474074e50b05c3",
+        "average_transaction": 188.6011467428473,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0x3a359f9d73c2b84c0b1a2f4138f5e8d3df4e4383",
+        "average_transaction": 181.96658207613916,
+        "balance": 178.09485102811493,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0x3d774bd8cd8faa2404e6baae0919ce98790fdb17",
+        "average_transaction": 198.623934010929,
+        "balance": 205.9946470748045,
+        "history": 241,
+        "fico": 215
+    },
+    {
+        "address": "0x658f6a06d7d722671367db0d1de5871c4a8c5f52",
+        "average_transaction": 204.98248671887097,
+        "balance": 0,
+        "history": 241,
+        "fico": 156
+    },
+    {
+        "address": "0x000000004fa9e635dbe91c83aee357d01494936d",
+        "average_transaction": 175.83628671803584,
+        "balance": 177.77856429836396,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0xae5cb1e193f1c00a88245ea52a8ca68d59f22b54",
+        "average_transaction": 186.2323142095211,
+        "balance": 0,
+        "history": 241,
+        "fico": 149
+    },
+    {
+        "address": "0xd489583f449420d5cbbf9c0feb6a741bd98e2874",
+        "average_transaction": 189.9490804138227,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0xd63d28282eeeace4d4d2c67ebb798f3a2ca782b1",
+        "average_transaction": 192.62199406772555,
+        "balance": 174.34906744010786,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0x0b65f3f92bde7f90614b5c505ed2f0a646eedb90",
+        "average_transaction": 200.89371185790836,
+        "balance": 173.61606997273103,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0x6a09bb93a8f3c68564c835b37cf9c1ff6686fcce",
+        "average_transaction": 196.37629801915563,
+        "balance": 0,
+        "history": 241,
+        "fico": 153
+    },
+    {
+        "address": "0x4bf894e5d329a268fed1063452119a85ffa14bc8",
+        "average_transaction": 186.53812064101265,
+        "balance": 0,
+        "history": 241,
+        "fico": 149
+    },
+    {
+        "address": "0xa593189b08c166cbc966ad472ab449e466d6cde6",
+        "average_transaction": 192.76999170836734,
+        "balance": 171.67787419865786,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0xf393fb8c4bbf7e37f583d0593ad1d1b2443e205c",
+        "average_transaction": 192.1626937481666,
+        "balance": 159.4752488474911,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0x994dfaacb5bbaabaf591d0c3acb44dfd66131203",
+        "average_transaction": 194.2522353284947,
+        "balance": 159.52690514708732,
+        "history": 241,
+        "fico": 200
+    },
+    {
+        "address": "0xa2bb86eccd76c9a710d16b66a258ce07987cabdf",
+        "average_transaction": 195.76157853873372,
+        "balance": 0,
+        "history": 241,
+        "fico": 152
+    },
+    {
+        "address": "0x0a2a34cdfbade6634d902d0d0a8dc7533d26f7e3",
+        "average_transaction": 183.2675949401248,
+        "balance": 175.7282801772281,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0xe349c7eb0a5fbd61b1d091ff45a211059795bc91",
+        "average_transaction": 191.36657813370596,
+        "balance": 138.08818425092124,
+        "history": 241,
+        "fico": 192
+    },
+    {
+        "address": "0x2c0dbf44f41985b6a536b664f7aecae955907a67",
+        "average_transaction": 178.43855422623162,
+        "balance": 177.05504501403834,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0x6fd921b068950891509ee0359ddf65790abc26a1",
+        "average_transaction": 182.9418364694519,
+        "balance": 156.60865478003868,
+        "history": 241,
+        "fico": 195
+    },
+    {
+        "address": "0x5356df73b293bd9c6e8efd22c99833391ef8821a",
+        "average_transaction": 0,
+        "balance": 176.2055785516843,
+        "history": 241,
+        "fico": 137
+    },
+    {
+        "address": "0x04ae6c6ea5f16bc6d4a3c5b098b3b85388888888",
+        "average_transaction": 197.83259645971697,
+        "balance": 167.83702235825405,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0xacb463a45f3f8ed224c9a21b2a20bc9008b71ff4",
+        "average_transaction": 193.3409798635805,
+        "balance": 179.48680541760677,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0xc814275d8b5e76bd163d10b9a9cc626439b6f39c",
+        "average_transaction": 196.49561271543914,
+        "balance": 175.1793120806625,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0x5dd8ed0b4008fcae26f81d23823a9aefa1698bc9",
+        "average_transaction": 191.11854120836173,
+        "balance": 170.00034546751954,
+        "history": 241,
+        "fico": 202
+    },
+    {
+        "address": "0x9a52cc6356b1884b4f7fd9c78224b0bce519377a",
+        "average_transaction": 197.69092616903316,
+        "balance": 0,
+        "history": 241,
+        "fico": 153
+    },
+    {
+        "address": "0x1be514feb6234d1ebfd5593d58eaccb157b2f61c",
+        "average_transaction": 204.4422222986881,
+        "balance": 163.491802035094,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0xce4ab0f5209f6db8aaebd0cb8fddb0ad38c87562",
+        "average_transaction": 178.89535710939452,
+        "balance": 181.54654172452652,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0xc1fce77a9d2c7db640723731238ca1200fcf4de3",
+        "average_transaction": 185.4170253599662,
+        "balance": 153.09323941865043,
+        "history": 241,
+        "fico": 195
+    },
+    {
+        "address": "0xa82234a1bec71ef617aefc063bf74b543a3cf4b0",
+        "average_transaction": 206.6274544777606,
+        "balance": 157.6852636887466,
+        "history": 242,
+        "fico": 204
+    },
+    {
+        "address": "0x6d1a99aad4d9529e1c76d5e33cf127f7dba7bf4f",
+        "average_transaction": 198.4283710182805,
+        "balance": 174.44802899436002,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0xb699af9b989d2887be096100740a75b5afdebda1",
+        "average_transaction": 199.9137678726047,
+        "balance": 157.52514775687285,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0xaee9918e185fbd45559c8485025783393c7c4319",
+        "average_transaction": 205.17799164096957,
+        "balance": 157.37239171763784,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0x03a69793e7e49f21862ecb8b0b99f08d67e3ec34",
+        "average_transaction": 176.96685554424167,
+        "balance": 0,
+        "history": 241,
+        "fico": 146
+    },
+    {
+        "address": "0x1014d57ada2f05b967578beb253e28fa31172c39",
+        "average_transaction": 182.34924080900188,
+        "balance": 166.82536071999772,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0xa5836a1f1b6dbd88248f960cd83dcb2bde1c92ae",
+        "average_transaction": 172.75038838360763,
+        "balance": 174.72902564484008,
+        "history": 241,
+        "fico": 197
+    },
+    {
+        "address": "0x1016d8879b708a476483fc78ee669696ee3deb06",
+        "average_transaction": 171.31947474791292,
+        "balance": 163.6596169370378,
+        "history": 241,
+        "fico": 193
+    },
+    {
+        "address": "0x555a56c3f71d8d1c411bd3b10434385c411547fe",
+        "average_transaction": 195.14048116089145,
+        "balance": 159.83647190605683,
+        "history": 241,
+        "fico": 200
+    },
+    {
+        "address": "0x481e61c353bd775643aa1bcf995cbdeaec918658",
+        "average_transaction": 187.7748043490913,
+        "balance": 170.5397106332628,
+        "history": 241,
+        "fico": 201
+    },
+    {
+        "address": "0x2d96bad7cd60226719d3f5791616f22c0a1eee2f",
+        "average_transaction": 192.94255255109908,
+        "balance": 176.3169009023528,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0x36b936e434d79ce590a08b728bc6828b9f4a499b",
+        "average_transaction": 192.7100791560972,
+        "balance": 0,
+        "history": 241,
+        "fico": 151
+    },
+    {
+        "address": "0xb6f795142f4d5f0cfc4961a5e034d9d7463262d3",
+        "average_transaction": 197.12245406195916,
+        "balance": 165.84689131567512,
+        "history": 241,
+        "fico": 203
+    },
+    {
+        "address": "0x21cf5649ee1a9362202ebff266ef7bbc8c26a917",
+        "average_transaction": 206.6397632230519,
+        "balance": 184.2783705959009,
+        "history": 241,
+        "fico": 211
+    },
+    {
+        "address": "0xec5724ba26f032c351638d00fce354b1d6f24769",
+        "average_transaction": 0,
+        "balance": 169.91226075692492,
+        "history": 241,
+        "fico": 135
+    },
+    {
+        "address": "0x4abed0ab693d86f38e8861962fae26113281794d",
+        "average_transaction": 204.4958172000706,
+        "balance": 186.8267665489806,
+        "history": 241,
+        "fico": 211
+    },
+    {
+        "address": "0x2ebdd9b77b6fe0023d29aabe2acad7545e52b027",
+        "average_transaction": 184.66394327362477,
+        "balance": 0,
+        "history": 241,
+        "fico": 148
+    },
+    {
+        "address": "0x643fab37e2ac95204988ef21ac675678425a0138",
+        "average_transaction": 188.50787863143708,
+        "balance": 159.90560829994018,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0xfdaf027b8ec3c6e587d0c8abf9ee60236cd8551a",
+        "average_transaction": 198.22819185844037,
+        "balance": 176.54402943834748,
+        "history": 241,
+        "fico": 206
+    },
+    {
+        "address": "0x47bb55752db81389b684e8660ca9712470e3d843",
+        "average_transaction": 177.84266968641612,
+        "balance": 172.15125351235213,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0x56d0e6233ed60aee2a71e673f2843f2a2d86a23d",
+        "average_transaction": 178.2461136149487,
+        "balance": 171.99653791328518,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0xb81296d3900fa20e159ab9399b3c41f546840776",
+        "average_transaction": 188.03591640343922,
+        "balance": 147.6300944088646,
+        "history": 241,
+        "fico": 194
+    },
+    {
+        "address": "0x066460c76c656613e11d11ea59007567c68b8411",
+        "average_transaction": 188.37725079803351,
+        "balance": 183.2398633081366,
+        "history": 241,
+        "fico": 205
+    },
+    {
+        "address": "0x87ca48dc8ba68ddc40eb2c1c777d5b8de6b9f3d4",
+        "average_transaction": 176.0350446223053,
+        "balance": 0,
+        "history": 241,
+        "fico": 145
+    },
+    {
+        "address": "0xb9bdb6bf1f9c84a77a826a7fd548bbfdb7833313",
+        "average_transaction": 187.77708766130763,
+        "balance": 0,
+        "history": 241,
+        "fico": 150
+    },
+    {
+        "address": "0xd2ce58e88eee4b45acd9ed939952ac10f80ad197",
+        "average_transaction": 168.19942251426014,
+        "balance": 156.37867621406141,
+        "history": 241,
+        "fico": 190
+    },
+    {
+        "address": "0x9dccf3419eb667944b50945a13ef23c864d2a8c0",
+        "average_transaction": 183.6016880947615,
+        "balance": 170.57789491423577,
+        "history": 241,
+        "fico": 199
+    },
+    {
+        "address": "0xfef081c45624397a0776cf2b63d45cc25a0487ff",
+        "average_transaction": 173.9315115757742,
+        "balance": 0,
+        "history": 241,
+        "fico": 145
+    },
+    {
+        "address": "0x03f2e1a326ef98ba1ed8e9670daf853e3e8c1ee1",
+        "average_transaction": 182.70220041868114,
+        "balance": 150.71261890669118,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x3151b2fb0a24f039c1e3b3c1540b11273d81eaa5",
+        "average_transaction": 173.8147884720219,
+        "balance": 0,
+        "history": 240,
+        "fico": 144
+    },
+    {
+        "address": "0x99d3c6533be883b6a67d151159ef253a1c00801c",
+        "average_transaction": 182.71139852416613,
+        "balance": 175.12493409005558,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x1b826429ee146de18d2957e57a838db358facecc",
+        "average_transaction": 194.47214899515228,
+        "balance": 142.04119982655922,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x68150a989139047b0d03c870666e2e7ab30fb0e3",
+        "average_transaction": 192.59052668347283,
+        "balance": 170.74344864920334,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x070b8d840eda7c742d40cbc3a6989ca29e4ce7e4",
+        "average_transaction": 0,
+        "balance": 165.8151252842648,
+        "history": 240,
+        "fico": 133
+    },
+    {
+        "address": "0x6f734668df58907ca22d1595a6cab4918bfd316b",
+        "average_transaction": 178.84747220523667,
+        "balance": 177.591808749131,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x74642a1d0ea20231afb6ad5064c44d689ab1e811",
+        "average_transaction": 186.33620127649223,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xb550bfe52edc23df9e8a408d8a4ac680ea90d11a",
+        "average_transaction": 185.03885699289256,
+        "balance": 150.3342375548728,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x90cba4767e7f39157c432b0d215d09f79b4730d8",
+        "average_transaction": 182.98416380061292,
+        "balance": 158.79669205632052,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0xa0935bde688188bb1c070552f4470ed5190f1c64",
+        "average_transaction": 181.3953935297244,
+        "balance": 178.45006474881305,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x5fe3661ad3af1a2aa85001364b988cf628c38811",
+        "average_transaction": 201.81059613723758,
+        "balance": 193.45688171036915,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0xe63e51259892160c20a02560bbe5fd0b272e8863",
+        "average_transaction": 183.24232652600867,
+        "balance": 169.1960333202471,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x3bb5f12fb0aa5e854164e199e005facd156c3e9e",
+        "average_transaction": 205.15049084952614,
+        "balance": 189.98397711552315,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0xf2d4118feb519c2d0622f6765c7842e71cbc0c97",
+        "average_transaction": 183.06419447690462,
+        "balance": 173.33993431239494,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x99817ce62abf5b17f58e71071e590cf958e5a1bf",
+        "average_transaction": 189.24106774808962,
+        "balance": 185.16011043640137,
+        "history": 243,
+        "fico": 206
+    },
+    {
+        "address": "0xd6ee25423ea9e4f647eac388ba9c7aba7b1516b9",
+        "average_transaction": 190.1225345623757,
+        "balance": 167.26383220473335,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xb933ad0949273d3316d103ff50cde998ed6e35a8",
+        "average_transaction": 197.30532827506156,
+        "balance": 169.74990271420975,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x99391c6f4d33ddac56e0856db4ef0013851031bd",
+        "average_transaction": 201.4906865424881,
+        "balance": 188.91374714159437,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0x292b78a5ad6214971c0ec79cb9d7eb3cf20957fb",
+        "average_transaction": 197.6975823501742,
+        "balance": 176.44834726183058,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x170a4421a8eb8ecc533e76ac097805f456a668c7",
+        "average_transaction": 189.15347620941046,
+        "balance": 176.83298089131551,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xce421a2aabcd9389ca44d423d31e34f855641c83",
+        "average_transaction": 175.59507640642497,
+        "balance": 158.2865989653532,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0x296cf7d1cfe35f9909541536833cae9bd42c8d7f",
+        "average_transaction": 185.42421883329234,
+        "balance": 171.87022544973362,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x94b6bd2904919eea3d28cc336f9539f13d08f6c2",
+        "average_transaction": 180.34697498192205,
+        "balance": 150.19669513243625,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0xaa320f3dea61954399a8ba66b3e1896f57704f0a",
+        "average_transaction": 198.10808169662965,
+        "balance": 182.71396430708106,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x6fd3ba02d46f0cd64dc40dc945d2229ea5824255",
+        "average_transaction": 189.66812729636962,
+        "balance": 179.26387933495624,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xf764cc532f61789b0cf56dab37348f02afc70887",
+        "average_transaction": 189.29721389385384,
+        "balance": 167.71502540457587,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x44f67c0ba01ea7411fdbc8f5a8ab8c96de78911c",
+        "average_transaction": 172.3657200643706,
+        "balance": 0,
+        "history": 240,
+        "fico": 144
+    },
+    {
+        "address": "0x90e0d37f59b4d3202880d2fb17f3e50b7056f762",
+        "average_transaction": 180.8947066161807,
+        "balance": 166.01594927884037,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x8a37a58ccd318cc07c393021ffb851873c842644",
+        "average_transaction": 178.2200991461859,
+        "balance": 152.3235816889381,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0x9f07dc4e6d36b1f5ac4150b2595a3cf822a04016",
+        "average_transaction": 188.6201883854839,
+        "balance": 188.11080262832857,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x7e9548d4ef99b928aee9465ee6201b85bf0d0e08",
+        "average_transaction": 191.6771562730117,
+        "balance": 159.0719657915121,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x7079082fd5aafc11bc4199f2700ac47cbd776415",
+        "average_transaction": 186.80611219489947,
+        "balance": 169.53653848196907,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x9e6f4c45f869c77e7bc9e28676f22577b64ac082",
+        "average_transaction": 198.00738249008532,
+        "balance": 155.06315849445753,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x8fdc5df186c58cdc2c22948beee12b1ae1406c6f",
+        "average_transaction": 189.71915410591203,
+        "balance": 176.9360030812464,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xa69767b571a2ce7c799ae1513808265cdacbc387",
+        "average_transaction": 182.38344319895504,
+        "balance": 175.02383064572774,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xfdb70ef773d18b12373943decaa0ed123d882641",
+        "average_transaction": 185.55298048541675,
+        "balance": 186.5367291994172,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x0ae72554c6782faebc71799382428bfd9bd8bcc7",
+        "average_transaction": 194.4581241717634,
+        "balance": 196.0096390867994,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xfa3ce52c15f19f363833b2983340325000a4636c",
+        "average_transaction": 168.61012189400878,
+        "balance": 168.86066075190217,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x1c329a1396d1f0c985106bd539549293ff5d70aa",
+        "average_transaction": 193.60162716755246,
+        "balance": 182.0542068884884,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x3c44438ca119cb3f91dee8f514f435f2d88c338f",
+        "average_transaction": 190.30290020996796,
+        "balance": 199.4945544825487,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xedbcf56aaa869bda5ed938336c77d13708e8cc29",
+        "average_transaction": 176.2083118189106,
+        "balance": 0,
+        "history": 240,
+        "fico": 145
+    },
+    {
+        "address": "0x28408720eb267deab9ee09456b3b9a0feec1e239",
+        "average_transaction": 185.08142204773867,
+        "balance": 169.8917683614067,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x6c68b7cb55ffcb3c27051107caf3fdde5d9df239",
+        "average_transaction": 186.2065987157857,
+        "balance": 173.93308493363463,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x6515eb3e4d7f386b1cc905ab0c13f31efedb85ec",
+        "average_transaction": 185.41760464584766,
+        "balance": 160.0340598767406,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0x52db0969ac7dd10314c9a77d179241ec9f1a62f9",
+        "average_transaction": 191.31149230766138,
+        "balance": 167.33343060261333,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x975a157fdda72fd0a3c5c03a26e749339b3d7dc8",
+        "average_transaction": 196.12778305535187,
+        "balance": 175.77381095193286,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x69fe2badd12f4515aaf99e3a9956b9ffae56f877",
+        "average_transaction": 189.65946166983332,
+        "balance": 172.72371134263423,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xd7b2879c8922cd704e41e8cc1f18f6994d6b7c36",
+        "average_transaction": 210.76759781392929,
+        "balance": 178.27601538951157,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0xdb7f495d759570253ba05a4c4368e7d1ad23f75f",
+        "average_transaction": 184.13120643495145,
+        "balance": 0,
+        "history": 240,
+        "fico": 148
+    },
+    {
+        "address": "0xcc55aa8fa576a0217523f62083ec633b9a04af01",
+        "average_transaction": 191.7343028832757,
+        "balance": 158.51927205664038,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x35bfc2bdf4d84ce33d956b4c84a5b62398cae08f",
+        "average_transaction": 185.45965728733935,
+        "balance": 0,
+        "history": 240,
+        "fico": 148
+    },
+    {
+        "address": "0x9f8f921adfbebe5bb08910edfdcea7a3a925d05a",
+        "average_transaction": 198.2133788539129,
+        "balance": 174.7174516525941,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x1f14bb397105e22dc758585693fc08a34b17fb63",
+        "average_transaction": 168.75521032546868,
+        "balance": 0,
+        "history": 240,
+        "fico": 143
+    },
+    {
+        "address": "0xd63e7418c45bf738e76a3fde5bbb4e515994a8af",
+        "average_transaction": 198.68936170810554,
+        "balance": 189.8017704724546,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0x0c837db502a8636bef3d1f4fd5bc8e4529f77747",
+        "average_transaction": 184.45382019356967,
+        "balance": 177.41956065136878,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x53dddbc27e1d909487e291120e779a4c43b8b557",
+        "average_transaction": 189.06248965134034,
+        "balance": 179.50090856281176,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x287e2c76aab4720786076c3deedd7dd386092050",
+        "average_transaction": 203.35317126789863,
+        "balance": 198.38887060073912,
+        "history": 240,
+        "fico": 214
+    },
+    {
+        "address": "0xdf11b77238d35a2c15b7d3934c3c1c67f0723b4a",
+        "average_transaction": 188.78930606335462,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x4f6970f9f4b14e91453bb80ba4267f43843779d4",
+        "average_transaction": 191.9502145926987,
+        "balance": 183.5185420568428,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xeef3c28d4754aaa1e940d06d8128ade170ac4ff5",
+        "average_transaction": 200.58762290406887,
+        "balance": 179.87419249540756,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xa03ae5eddc99e65dd7e1315d4b238e51f9baa6bc",
+        "average_transaction": 169.6101744934504,
+        "balance": 175.66999748623317,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0x201f289dd605a3fb0d6a604438ff5631541175df",
+        "average_transaction": 176.96483503939822,
+        "balance": 0,
+        "history": 240,
+        "fico": 145
+    },
+    {
+        "address": "0xb1b31feef753706f4ed6ae51939d7bc67151bf3b",
+        "average_transaction": 194.772276916289,
+        "balance": 168.8166709233093,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x9858649b58f57d7658d05b7e06fe2533e9f27cf0",
+        "average_transaction": 201.50418748390217,
+        "balance": 185.89107800988313,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0x0b83d0c0976b71724054e9f74a471f7d1c7abdc4",
+        "average_transaction": 193.82697854084554,
+        "balance": 191.34826860314345,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x14fe1c6adb626a8235b079d4ff66c6b0a3a2e68a",
+        "average_transaction": 195.98418465977488,
+        "balance": 170.69066597024732,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x918a97ad195dd111c54ea82e2f8b8d22e9f48726",
+        "average_transaction": 207.2924218958175,
+        "balance": 178.94294075883056,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xbfbc9c75c8970bf68426c1bf67184ce6226a2261",
+        "average_transaction": 206.89469937496176,
+        "balance": 169.991543223932,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x79de790a1aca5ffcb013a57b2983981f1a56089c",
+        "average_transaction": 198.7631328154349,
+        "balance": 0,
+        "history": 244,
+        "fico": 154
+    },
+    {
+        "address": "0x3d1b9210a9f475cb972c5de6c42b974a3b3d9671",
+        "average_transaction": 200.7099818283159,
+        "balance": 157.1664890568626,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x3d766ce34ee4fe3bef1ef6a68e72cc99add475d9",
+        "average_transaction": 201.04652308801235,
+        "balance": 190.42654218345731,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0xd576b5994865c94a0a6449687c2a08e47fd77bb4",
+        "average_transaction": 189.89380030644898,
+        "balance": 180.29796127291408,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x95d8c745c7073b981c3cc76f9cf739bac0d532c2",
+        "average_transaction": 195.79129872956432,
+        "balance": 162.93114629497748,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xa33f77029ffc26140a11f309897bfc4a5bf8d969",
+        "average_transaction": 203.78557097767236,
+        "balance": 191.76852036290796,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0x0dd2e2c676485fa398cdad7a4e9863edffd32fb7",
+        "average_transaction": 197.42537877353442,
+        "balance": 174.9765488627208,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xcdf91269d4e4bba12f8f3c82be7a13e4a1d4b3bb",
+        "average_transaction": 184.30478177127713,
+        "balance": 183.08469616964277,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x997202adee11ebeb3d5b6b3c0b3b2b3f3002bc31",
+        "average_transaction": 192.26066049507892,
+        "balance": 174.2918402323363,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x3b98042ecb4070a0fc29f30c47a540f900ccc1ec",
+        "average_transaction": 199.98238797158808,
+        "balance": 184.100600818367,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0xf6ce5012cda535fffc151e6c4ee5a0dfb851bbc8",
+        "average_transaction": 185.11710160984308,
+        "balance": 166.39543953939938,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xfa39b5412adaabfefecde96d3320cbc13afe85f5",
+        "average_transaction": 198.6860970630423,
+        "balance": 154.6377818883889,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x900b2591983cb2a8dfad94ccbff81d10ea8eb923",
+        "average_transaction": 171.21480600599668,
+        "balance": 167.24629090854864,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x0230385654b11733811039fddd4d05f4537d59bf",
+        "average_transaction": 188.19768463688493,
+        "balance": 167.21233835684717,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x7c6c8e5a168205c6b47c6bc93d8f9de9ad1879e9",
+        "average_transaction": 196.1638317642921,
+        "balance": 176.74195684691233,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x0fbaa8ecbc7f2dd49cf598b9d854e1a268d5f60f",
+        "average_transaction": 181.88269606191517,
+        "balance": 164.00572197336908,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0x2951c70fb93202f639983ef712f9cc90b39657e9",
+        "average_transaction": 196.24855482168152,
+        "balance": 174.52661076312026,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xd7aa3d83689faebec5b5ecf76db80320b6c51490",
+        "average_transaction": 189.38973281547396,
+        "balance": 180.95254653512032,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x5ac5635458bc0714be760d5fd503a3885058d9a9",
+        "average_transaction": 198.88366988212755,
+        "balance": 166.2056703015893,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x1f81d13126fc35e6dca5d90df737e8edb076dc33",
+        "average_transaction": 196.37917083729423,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0xcff5021a6bf31cd7318b3a893e5f79704f2121c2",
+        "average_transaction": 198.25699146776873,
+        "balance": 175.69610054187365,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xee8cadff8fdd3a997c8cf28cb1dd7ce5b2ece105",
+        "average_transaction": 198.66539969244053,
+        "balance": 159.8618795475338,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x2401050448b48346042b3cd5bb95cfb9c9e2e9ad",
+        "average_transaction": 204.10021539911085,
+        "balance": 173.4221584083407,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xf938a9619b5ef9895ae40b757a259a2eed98bc1f",
+        "average_transaction": 197.2280500079563,
+        "balance": 168.00658056756149,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x5e42e62ee53676d7516790ad2370e36c9a98a403",
+        "average_transaction": 189.59420526082346,
+        "balance": 172.2078985817941,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x75b018bd3369cc26d0721f6105eaed8005e4cac0",
+        "average_transaction": 196.12412867773065,
+        "balance": 168.34505782272078,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xaf2ea0699393783a0003ec0df75ea47058d4c46f",
+        "average_transaction": 192.1680223928015,
+        "balance": 178.58289597756854,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x0b793339f9b3ae5049c02534fd98bf3960c92e89",
+        "average_transaction": 196.87063143376537,
+        "balance": 185.7211279257583,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xb4187cbcc9d2ff6e2ed0e712effb4ed9aca28d7a",
+        "average_transaction": 198.4002455585592,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xfca3f87361c089e55835e3535ef90c4077e3385b",
+        "average_transaction": 182.73178719571416,
+        "balance": 169.83905032537734,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xd07d7fc9d70e703723cc08ee060a5969666934a6",
+        "average_transaction": 188.29828213468673,
+        "balance": 181.39990047718,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x3a8468c8fd0e1cc9f9ba2b841ac26407e20ec801",
+        "average_transaction": 196.3943477703699,
+        "balance": 167.7046201973819,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xc01b33ae2e3a4cb75d0e3bcee2f0cc3eb3fe668a",
+        "average_transaction": 206.11513299735506,
+        "balance": 176.39334214510814,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0xa851bd847e06e32f4bb6a9b29a7df48d764e4f88",
+        "average_transaction": 180.40404528914155,
+        "balance": 142.04119982655922,
+        "history": 240,
+        "fico": 189
+    },
+    {
+        "address": "0x0d0bd6469be80d57893cf1b21434936dfaa35319",
+        "average_transaction": 200.94555372862442,
+        "balance": 166.2304019782536,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x4ab5cbac03e7157b7f415bd7ac84ecf0723ff610",
+        "average_transaction": 197.6315157404971,
+        "balance": 178.549603151967,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x5fd4a5d2403b6ad8dc1cbcd24260e71d3344f9de",
+        "average_transaction": 191.5727049871629,
+        "balance": 173.2265373996837,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xe42be414af423cf4bff3c554efd3ac7bd073b39e",
+        "average_transaction": 185.86929325780974,
+        "balance": 171.97055434699234,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x058b10cbe1872ad139b00326686ee8ccef274c58",
+        "average_transaction": 188.09147907271094,
+        "balance": 182.85020228061157,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xff3f4ed1d97b03c4bd06844b0ec0ebab8699ed84",
+        "average_transaction": 180.41667762756688,
+        "balance": 182.6195400904312,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x8d1a17e08908aeda392d262bc529766ccf6aa67b",
+        "average_transaction": 200.8211983032854,
+        "balance": 170.0407535813977,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x733d15099a3382d60925884995dd8d53804a6d3b",
+        "average_transaction": 183.00595483889964,
+        "balance": 158.2576128451554,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0x1831570e2145ce1048eb566edb9612ec867aa736",
+        "average_transaction": 192.98044026177172,
+        "balance": 170.4752552803854,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x2a8864b7f5e64dfc9e1a4934033838a914d7da73",
+        "average_transaction": 189.6247384250549,
+        "balance": 188.26755801161468,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x68ca671253729039c1596856a0492b5979fcf37b",
+        "average_transaction": 197.68370862110635,
+        "balance": 178.65315364181316,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x8bf590767f919aa0478136b61fae6fa24f3acb85",
+        "average_transaction": 198.72512217171018,
+        "balance": 151.55529232271124,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xa5717fd2d7785ea6573b131eeccf2d5932226d5e",
+        "average_transaction": 198.17899501849394,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xb1cfbecf64627857ce161a2898d4f741c306ea1d",
+        "average_transaction": 186.3941541196253,
+        "balance": 149.56673875565716,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x70c643974a6563af8c9d288067bd503f97ac59c7",
+        "average_transaction": 193.95153615494425,
+        "balance": 159.29809805982742,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xb4373b9ff52965c9647c49894c389f3c3bda4562",
+        "average_transaction": 193.012413480116,
+        "balance": 160.4972284776436,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x8a0e84483e3298306245d1c5e6343ebbc798e0b3",
+        "average_transaction": 192.6829358884831,
+        "balance": 172.97560755168695,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x67909f0fd4d76342b85108412d5c97ed5b33c49f",
+        "average_transaction": 191.10142207476753,
+        "balance": 159.28486961455494,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x06849ad74ae2756959b2352f3017c6baf3d26e5d",
+        "average_transaction": 0,
+        "balance": 195.20108496505398,
+        "history": 240,
+        "fico": 142
+    },
+    {
+        "address": "0x47335c314ed0435235e560fe27a1d2dd58714599",
+        "average_transaction": 195.84667004814366,
+        "balance": 170.9814551530644,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x0b2f25e6a3ebdad7999793200abb0c9e33303115",
+        "average_transaction": 190.68815672691673,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x290a584085716a178236189d63f2a762a0d10139",
+        "average_transaction": 198.71175682693013,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x82dcd74cf3a80aec92b62c2fed789396ae783dd6",
+        "average_transaction": 169.77723605288847,
+        "balance": 155.21399628115373,
+        "history": 240,
+        "fico": 189
+    },
+    {
+        "address": "0x1964f9cffa39ce77611b44dddd21a22290a5283c",
+        "average_transaction": 202.0845973244131,
+        "balance": 181.54583542946722,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x3e4334a19335c6aa004a5c398d8550af58bfa026",
+        "average_transaction": 206.42882860743487,
+        "balance": 172.20428954960698,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xaff179993df869c1952d1b8b1d5bb53e66db6cf3",
+        "average_transaction": 170.00036098854093,
+        "balance": 157.7864321242261,
+        "history": 240,
+        "fico": 190
+    },
+    {
+        "address": "0x901fc93606d05b355e4b98ea3d664c6c19a25f36",
+        "average_transaction": 189.64871222561004,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xbec73ba0817403cd11c11be891d671ea30443562",
+        "average_transaction": 192.55065005999,
+        "balance": 163.92390747396732,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xddd118cab8c9042265f65e16da68c062940bac65",
+        "average_transaction": 184.10509753697337,
+        "balance": 171.80124490287443,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x8da0a15786008f543a760701e2021f992e1c1cc5",
+        "average_transaction": 198.80451180361447,
+        "balance": 178.40484905978917,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xe45070318d240591a55cf295ab9adfaf6f0c6954",
+        "average_transaction": 187.4151749830489,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xef66fff7b8267093a5671c7f6747158025c695aa",
+        "average_transaction": 188.703903082095,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x9fc6dc3d631bd9ff14f7c857a7c36d27b1986e4a",
+        "average_transaction": 188.28405913367146,
+        "balance": 163.2823726201703,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xc5a3257d07aff947c30d9c95451296e538a63764",
+        "average_transaction": 168.34203131029827,
+        "balance": 149.99999999999997,
+        "history": 240,
+        "fico": 187
+    },
+    {
+        "address": "0x4d538a0289ca3243a3b7edeb8e2ba68ca423ff63",
+        "average_transaction": 199.07307016302272,
+        "balance": 183.8283920110054,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x5dfda9938e884e2bdd46ad460a37440c7a7b1b86",
+        "average_transaction": 200.33245900796604,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0xbdb650b85489db77639d58254158c34312145c62",
+        "average_transaction": 198.87292640349372,
+        "balance": 146.07212926254564,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x26d13c17659e1305344ee31635b5a2b72e94d82e",
+        "average_transaction": 196.2444051337494,
+        "balance": 187.63287087477892,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x6c55bbad20ac413bb72c942da2ead490c0f50e8d",
+        "average_transaction": 197.52999555566194,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xf5daa94c5253332fb77fd6b0a0675b827894870c",
+        "average_transaction": 198.22214238085445,
+        "balance": 148.7742046114131,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xa4317ab9d7df7453d8e0853415e04f7e3a78f78f",
+        "average_transaction": 202.3708715187199,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0xff2679780aa85c5775283a814c790f4c59b05da3",
+        "average_transaction": 216.03756510594425,
+        "balance": 0,
+        "history": 240,
+        "fico": 159
+    },
+    {
+        "address": "0x8f4375754bd32cfa8e4646bb7979dac77078846e",
+        "average_transaction": 193.1067018825429,
+        "balance": 174.58681578659767,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x8568e5cf0723c1a0f8b124b058ca12f0af1ae43d",
+        "average_transaction": 193.8571223766853,
+        "balance": 172.99281891766097,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xd6e54138a453b3fdc5863f3a4a70239feb29b803",
+        "average_transaction": 189.88576290541118,
+        "balance": 170.00276667890682,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x90d2ae713911da240b9fbb20fc6da06fb2774edb",
+        "average_transaction": 193.07118851788488,
+        "balance": 159.79686176373238,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xa788c59880f31d6a9c3511a8064286682b01756b",
+        "average_transaction": 204.04220057922402,
+        "balance": 173.09876384087144,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x4085d75630d229213a6c59f2b087f3dd3450b1b6",
+        "average_transaction": 185.84479395840359,
+        "balance": 165.42486310740824,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xc7f91fe45b0df8b5a1a10b3320e1e36c9b40547f",
+        "average_transaction": 175.5938877796805,
+        "balance": 164.3936060163456,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0xdbad122902e3bdc6620861b3d83db1407edfd5a2",
+        "average_transaction": 200.85792637781142,
+        "balance": 177.16521739121208,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x8030cee25ee195022d6a92fe4524d6c9e201ee18",
+        "average_transaction": 189.25188256227497,
+        "balance": 169.82958918715784,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x354660d1bff0105377da89cf6e024ebaa6f2f84a",
+        "average_transaction": 0,
+        "balance": 169.88253951888737,
+        "history": 240,
+        "fico": 134
+    },
+    {
+        "address": "0x6f7923b9686d6dbbbb7da6e44e03e7a5c2053ef9",
+        "average_transaction": 190.64787570325353,
+        "balance": 189.7011298761217,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x17e32fdb2c47b2e46245e3ad25228cd3faff230f",
+        "average_transaction": 198.58984625797663,
+        "balance": 172.04403309797902,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x4322b3108fa319681806d2cc17eb52e19b4534b2",
+        "average_transaction": 200.26996093724588,
+        "balance": 163.8291076623711,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x4d29c9b31444834c3df91c598e3c5da3e77d8237",
+        "average_transaction": 210.88684325430495,
+        "balance": 176.9731651985184,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0x00197a17c8ec9e02c852be37c127dcc004ea4eca",
+        "average_transaction": 203.48681587567583,
+        "balance": 0,
+        "history": 240,
+        "fico": 155
+    },
+    {
+        "address": "0x31c7067eeafa8b51cd73dc92eb801b4e1f7c709d",
+        "average_transaction": 194.59757653580067,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x5561274ea0a294f6121bba2f53cc0bebe030e298",
+        "average_transaction": 200.52062227698823,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0x1ebef03483030dd746c0bba924e828ce2c0534ea",
+        "average_transaction": 202.73446764739023,
+        "balance": 158.66743606664446,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xab1dc4b2eeeecc9d98ca8cc5e96847a0b79cd24c",
+        "average_transaction": 177.2645552025831,
+        "balance": 179.60434599694455,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x36d4ca5a96b3af8d88a517138e0767433efccefd",
+        "average_transaction": 188.73220448157986,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x8ceec8c6cc198a9471d8adb93304bcb8168999bd",
+        "average_transaction": 187.46199563680483,
+        "balance": 176.72656304080954,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x51ac72b9054da2990253f5bb61a645ff32177423",
+        "average_transaction": 193.26687743887757,
+        "balance": 175.12189148294593,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x52c1ffbdca58074be6badb2fb569a8e1589297fa",
+        "average_transaction": 197.77892672476128,
+        "balance": 168.07241241282406,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x8f2fbc86e2dfc8e9f934e560ae5585a6b529db4f",
+        "average_transaction": 189.56793829985793,
+        "balance": 183.1918590789914,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xf92d260a93785defae5ab49ab62c97b691bc6ff8",
+        "average_transaction": 194.90857473827472,
+        "balance": 144.24518357475804,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0xde5cb490f13cb765d2518a366ad394d8751ebe50",
+        "average_transaction": 186.56005110813223,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xc76bb7779bb2c5e4c8be6c2fe92cfdff80ef2698",
+        "average_transaction": 183.1026045263448,
+        "balance": 167.68678601101482,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xc7d831fb95c1c4bb1703bb620be9c4ae4a8d4995",
+        "average_transaction": 193.8715095311433,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x717821aae2a45c5c5c5bcda7a8662cd3df2385e5",
+        "average_transaction": 207.99480166601194,
+        "balance": 188.4976545626348,
+        "history": 240,
+        "fico": 213
+    },
+    {
+        "address": "0xd3312d16248f06ab4627611bb945c67dd378d858",
+        "average_transaction": 193.38594402237558,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xe2b83f2b3aeb22d61bdda5ffd5477618c1353efb",
+        "average_transaction": 183.0809332087499,
+        "balance": 176.20475100325706,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x0604ce5c2ebca9012ce242ba915004611e5d62a0",
+        "average_transaction": 187.1856366887074,
+        "balance": 168.6464458210744,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x8b44ed6b7ae3f52006104a5882e7796c7d9021f3",
+        "average_transaction": 210.2691190837415,
+        "balance": 184.48462456216944,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0x142ba743cf9317eb54ba10c157870af3cbb66bd3",
+        "average_transaction": 183.54537727321753,
+        "balance": 169.4395314597329,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xc535dbe69e35688572aa9b1e0ea90b5398a8564d",
+        "average_transaction": 177.3854820946174,
+        "balance": 178.15443739015126,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xaf8cdb29f2cf0d23f6188102952c04b26bae7df1",
+        "average_transaction": 183.3400301802593,
+        "balance": 0,
+        "history": 240,
+        "fico": 148
+    },
+    {
+        "address": "0xad2aa0383172fc5c9666157c3cdf3ef8eadc8f6b",
+        "average_transaction": 190.80410392964183,
+        "balance": 139.24304128120824,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0x1adcbcc69d99e4e89876b06fab865043fc6b8f1e",
+        "average_transaction": 198.14885938096768,
+        "balance": 171.00786657700922,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x738a9601fa77d2db0b606d97cedbc885eee29bca",
+        "average_transaction": 187.75164793496288,
+        "balance": 168.68291458443437,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xa31887edcce94ebf74961270fe20eba5f429a9bc",
+        "average_transaction": 170.62478244242143,
+        "balance": 176.9673326739394,
+        "history": 241,
+        "fico": 197
+    },
+    {
+        "address": "0x5baf7bea3f252f9aa1ed70c2e506e72e49b4a3f9",
+        "average_transaction": 209.93828806271452,
+        "balance": 194.3282216049394,
+        "history": 240,
+        "fico": 215
+    },
+    {
+        "address": "0xb18ceb79a562bbf69a7b07348388ad3b2e4999cc",
+        "average_transaction": 191.84812875604197,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x7ccbac52030208ebfe9643dd3f43b2fee8d90073",
+        "average_transaction": 193.47108451268116,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xb2721d9e3f1132314bc744ae6a7b16fe54bb33c8",
+        "average_transaction": 186.42072813461124,
+        "balance": 168.57525868921968,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x6b9c691062ff2f9d423faf489bcfde5ee708e02d",
+        "average_transaction": 184.36690473819175,
+        "balance": 161.58591050099344,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0xc5e373d958416f1d00c24b6d426c250aabf3027b",
+        "average_transaction": 191.83722820381854,
+        "balance": 170.5910567648245,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x0601f020ec4f1033d555dd56a61a3035a7d13cf4",
+        "average_transaction": 194.48306956983254,
+        "balance": 165.9734580479593,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xf3723274beb8cd98107304b6ee7d9fb1db98dd14",
+        "average_transaction": 187.60864591513132,
+        "balance": 174.36190050054756,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x75ffa542a8851605ce9f299c72e53363532fc5a6",
+        "average_transaction": 201.5850379237119,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0x89a1361884d1884b1164ce4df89f74d0e6870c0e",
+        "average_transaction": 194.3252660383371,
+        "balance": 180.28000785981686,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x278605476dc4946ba6df5356c9e603943dc622ae",
+        "average_transaction": 200.54403289387412,
+        "balance": 178.81794254390388,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xb1cacf138c30068ed3e5c2f14c7a9ea88db834c3",
+        "average_transaction": 165.4106253421055,
+        "balance": 181.18904471223274,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0xd842f147db3c3d525ce1a9d9993af9ca0defbafb",
+        "average_transaction": 194.71392569568877,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x5d0d8aa6ee5d4449f383c18ee16de9da5151f3a2",
+        "average_transaction": 185.5417707064833,
+        "balance": 167.87086434108286,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x8c2f43743f7fe3cec7d031b0e663a760faf7df5f",
+        "average_transaction": 190.39793785794953,
+        "balance": 181.65422463762593,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x95b18b7721ee14714ab9d50f21fd8027d9b96432",
+        "average_transaction": 199.7227739426201,
+        "balance": 182.07091939670872,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x3457968cc025d401b47cdcc73e7d1d4fc4617d26",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 240,
+        "fico": 131
+    },
+    {
+        "address": "0x72ac07efc4339dcd16e44241571ae757c77a7ca9",
+        "average_transaction": 156.5321251377534,
+        "balance": 157.55370171409567,
+        "history": 240,
+        "fico": 186
+    },
+    {
+        "address": "0x5752395eeb1ea1f3645214fc827cf29fafe40677",
+        "average_transaction": 194.79739507823103,
+        "balance": 141.14572505632879,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x2d8e557b596f1bf6e65b5fe6b0cf77b5ad8de808",
+        "average_transaction": 206.25021303293033,
+        "balance": 0,
+        "history": 240,
+        "fico": 156
+    },
+    {
+        "address": "0xfe9cbd057464f17cfb10c0c2f21e0ed5594f1c1a",
+        "average_transaction": 203.60479450709852,
+        "balance": 169.12897934689107,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xf2c1400b58c96d8ae13bac3af38560664e7bee85",
+        "average_transaction": 189.99827724644013,
+        "balance": 157.46634198937576,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0xc13e02bfb767326c97e18d4d5d572434bc379e00",
+        "average_transaction": 188.02611456571208,
+        "balance": 159.90899345643226,
+        "history": 241,
+        "fico": 198
+    },
+    {
+        "address": "0xda63657f76d42e4dc30b5bc071f69083da8a577d",
+        "average_transaction": 190.826058232831,
+        "balance": 158.05840548814672,
+        "history": 243,
+        "fico": 199
+    },
+    {
+        "address": "0x64bcd451b7bba57713904a7eb436091ee1d370f2",
+        "average_transaction": 216.36873818085223,
+        "balance": 157.48184537125803,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xd29776dcf48716382d90bf44972f4333d019ccdd",
+        "average_transaction": 190.66164440015848,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x320808e07d1f69a55ac21e2c0da57ea745f4b374",
+        "average_transaction": 200.37250572775645,
+        "balance": 183.36545168889592,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0xbe797d4febecb3344e77df77f192912e4cf00a13",
+        "average_transaction": 198.31607046460394,
+        "balance": 172.28957889552643,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x51a37e5a7346a8a79b397f0511b08303e7b408e4",
+        "average_transaction": 188.0006437142183,
+        "balance": 159.97114393004225,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x5f2b5a5454e04ad2394b2add2f176f7ccc22cce9",
+        "average_transaction": 184.5281649807394,
+        "balance": 171.94328068699363,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x3bcc6667afa9e0fa7b2111ee689c605f0d8320ec",
+        "average_transaction": 204.01107569908334,
+        "balance": 176.79419215974298,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x964a5d34f88fadee8aa7620d6b97177a4cda42ae",
+        "average_transaction": 194.96354775729444,
+        "balance": 144.73728033846675,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0xe2cc0d41735054f32231bc6af306b6297a639802",
+        "average_transaction": 208.9907230243389,
+        "balance": 172.33535444665767,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x88538509840b6973a45cc1312c1020634f82d2eb",
+        "average_transaction": 187.9379163089445,
+        "balance": 177.99290316316316,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x93764f58a1a68b07355b47f722e6889c7830543c",
+        "average_transaction": 197.88825924604265,
+        "balance": 168.24885617741643,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x933c69a50bab41cd9c66c911dd8110c957c2611e",
+        "average_transaction": 167.21015529344936,
+        "balance": 183.96679625358874,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x641c06d2464d581e428c6ece3d0d8afa7caccb92",
+        "average_transaction": 187.48532755075107,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xab7f9f687c035825ab5bb338a942b39ef6faf0c0",
+        "average_transaction": 196.25174159534618,
+        "balance": 181.74846843815428,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xde924b4fdaf37e4118cc476a967c0329c1c03575",
+        "average_transaction": 182.11493015830098,
+        "balance": 168.67052594493424,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xf8b1946acdf126ed2d97b1421a0344a7fa3fd3c5",
+        "average_transaction": 186.49347364930827,
+        "balance": 172.4236725391455,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x89324fb18522201dbcfcf10c40eb1bdf8fc9bacb",
+        "average_transaction": 196.16247498399372,
+        "balance": 162.40070740183648,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xef7d3ed4bdebc89bfa37859d6ee179653f15836d",
+        "average_transaction": 201.15565405314095,
+        "balance": 160.70899889945144,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x66d5e159d130aba2204fcdeff89d06ae9a6c6b11",
+        "average_transaction": 200.57088387715322,
+        "balance": 170.0317341035587,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x2e312c35a243c787978072986480d711e94503fe",
+        "average_transaction": 193.17720850148888,
+        "balance": 172.0455441944075,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xab5504b91a4dee1ca12a04d71c454de543ccb0b6",
+        "average_transaction": 201.8309302652868,
+        "balance": 157.1585480323414,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x60e4009476f69e15542747cd3166f73e8b568e97",
+        "average_transaction": 188.96021139344012,
+        "balance": 162.85723194174136,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xbb02b1b914590f69e9f1942d205f77276b4b3ca9",
+        "average_transaction": 193.94314816713919,
+        "balance": 176.04029404116545,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xc5febfb99ded58a63d3b783c033d71736fa2f4bf",
+        "average_transaction": 198.762099725535,
+        "balance": 182.65702456072643,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x371de0c6314052feb9689acdad4b469cdc546361",
+        "average_transaction": 197.28052916408177,
+        "balance": 174.07529909326215,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x0064dd1840a0e5284280244f2da76aef484c6cd3",
+        "average_transaction": 189.37274889337917,
+        "balance": 173.9635446887576,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x9090f46a64998fc6afdb5deb99c545116e896141",
+        "average_transaction": 165.8270372291201,
+        "balance": 140.639249023195,
+        "history": 240,
+        "fico": 184
+    },
+    {
+        "address": "0xfe07e9690b769c4af17d73d1dfc04619607ce406",
+        "average_transaction": 188.22867857843025,
+        "balance": 145.73683693093795,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x251f28593872578a5ead1574eef61154c344b0a2",
+        "average_transaction": 203.45915784230274,
+        "balance": 165.01131283300506,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xfd239853cbe491f6b5419a470099a21f5d86ad50",
+        "average_transaction": 196.61897618491724,
+        "balance": 186.07891135357548,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x8b899c66dd57e5ba13da3170d0b0ab1239907ade",
+        "average_transaction": 190.32535813019453,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xa7880bd30c4806a35187c4cad316d11ad260f893",
+        "average_transaction": 196.09462198165315,
+        "balance": 178.2235331844318,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x335f3f3bd1384b52ba61771727ec8c87d391b5ee",
+        "average_transaction": 194.78613260954558,
+        "balance": 177.5855174922702,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x1d5db86fa1960f6699562277208bb3addad9b6a8",
+        "average_transaction": 201.7863888344253,
+        "balance": 177.08916043985346,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x7237fe46a481f151b95242f8e5b923a97cc4ec58",
+        "average_transaction": 201.12031411922345,
+        "balance": 157.95842444774254,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xb8a7de41a8d28952a4d253f22c4786c6cd65122f",
+        "average_transaction": 200.0669698536814,
+        "balance": 205.1651255521797,
+        "history": 240,
+        "fico": 215
+    },
+    {
+        "address": "0x714120654b56fa5a3ed9239ebf7a8c0a577ebb5c",
+        "average_transaction": 207.2926791286971,
+        "balance": 171.674062176472,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xec308d4cd68846ce31830c706ab5043a5eef7523",
+        "average_transaction": 200.1915503646016,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0xed31cb85ac7792b760d14b87cb940cbc370ab802",
+        "average_transaction": 205.3381079912157,
+        "balance": 0,
+        "history": 240,
+        "fico": 155
+    },
+    {
+        "address": "0xe9a041615fcba56d491ee69220be0efe1ee814a0",
+        "average_transaction": 201.6153824136298,
+        "balance": 178.47385048925983,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xe840f234ae2b0b3ed4672c5b0863a1c4ac1fe59d",
+        "average_transaction": 191.80267141586003,
+        "balance": 168.56021169753615,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x4722d8e56f2669a432d65d0f02f9d1623e7c040c",
+        "average_transaction": 191.4364254314039,
+        "balance": 164.53033147350837,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x717f102240176ba044ba0a2792e429f9cd5c5561",
+        "average_transaction": 204.76878947325517,
+        "balance": 176.9220072304014,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xad1eae80ac2b5a69f6f331cbb7409a8340c12f58",
+        "average_transaction": 193.33383100391828,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x5f085bb67723fc48b659f54568c58dc6737cd084",
+        "average_transaction": 202.0217539640551,
+        "balance": 175.53485260338277,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xbf943f32a4f5f8f416b861b398c44126be674cb3",
+        "average_transaction": 195.75878122922543,
+        "balance": 158.46568747371543,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x814d4b802f0e693fbadf79f15686414a57b31c07",
+        "average_transaction": 181.44683828660064,
+        "balance": 170.67462319182954,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x6e58bdee94a421f967ad93a0c937681e9c75aafc",
+        "average_transaction": 192.77019684279992,
+        "balance": 186.80995511081915,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x76bf5d4a2f217ea22aaf2adb5ffed987183c2dc4",
+        "average_transaction": 196.14284476264555,
+        "balance": 167.05051687574692,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x4a76ccdca7109e9ae4462bbe69b365d1c6cf5254",
+        "average_transaction": 201.1560019681188,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0x0f1e05e8a6743ba9c7ed8e78404eedefa02efabf",
+        "average_transaction": 194.32798144940227,
+        "balance": 169.50815614740515,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xa577110d143bd1d1105a31e8fc19b3f65de3ebed",
+        "average_transaction": 213.6777635596124,
+        "balance": 197.9357491288722,
+        "history": 240,
+        "fico": 218
+    },
+    {
+        "address": "0x63b015506163f0d14b2f932087059f4b3d2af501",
+        "average_transaction": 187.5123661772994,
+        "balance": 162.42941723897184,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xde9d3d972718a0deccebc4846496402d4dcb108d",
+        "average_transaction": 187.36303506998928,
+        "balance": 180.24748967118325,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x0fcfc90165f1bfe052e57b7ab07e74c4ab22aa01",
+        "average_transaction": 199.1984756595549,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x8d8364c79dbbf0ee17990942ee6226a8f0eb5f99",
+        "average_transaction": 200.65222872566923,
+        "balance": 166.98496949347935,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xdf4e4d902dadcd4b3ae36758c06959209755a78c",
+        "average_transaction": 183.74279921722524,
+        "balance": 0,
+        "history": 240,
+        "fico": 148
+    },
+    {
+        "address": "0x35eb91694fd764127380aee8a3f39333eec1d9b2",
+        "average_transaction": 191.20892952729326,
+        "balance": 165.51703573675113,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xf39aff7a1af271be595f73d78c3d9b73536d6c15",
+        "average_transaction": 193.7856967288397,
+        "balance": 179.27854374357509,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x7fbe42d57ba2502b9bc1ea4ec883efe1277b06cd",
+        "average_transaction": 202.47803847473804,
+        "balance": 172.02387046162886,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xdd9faa35f96519cf53cef61cbd557239a7bfc66f",
+        "average_transaction": 211.00541336567807,
+        "balance": 168.08360436348937,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xa500fd69b871ecbde74fc5a5d03ec643c4414026",
+        "average_transaction": 203.766138391536,
+        "balance": 0,
+        "history": 240,
+        "fico": 155
+    },
+    {
+        "address": "0x369f5238c82b4441e28318f96fd16010b8269560",
+        "average_transaction": 202.7274787349462,
+        "balance": 180.05902180202906,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xccf7872841ba2309ffa42eb0d4b55dcdcf32908a",
+        "average_transaction": 186.61197449691502,
+        "balance": 174.8655230982388,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x77d4c4569a0e00e6922c7e8bd09791bdc4a2760c",
+        "average_transaction": 191.31936509497646,
+        "balance": 160.42915200512584,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xe2ee7685847e0490eb63e3ac59b64b922a89f226",
+        "average_transaction": 181.21331470244968,
+        "balance": 136.232492903979,
+        "history": 240,
+        "fico": 188
+    },
+    {
+        "address": "0x588faac6b3aa91bb4cd8127ab357515716541f1b",
+        "average_transaction": 191.95527586662863,
+        "balance": 171.8313638253443,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x42d2184dac8580e6224b361a36ca3a917f7ea67b",
+        "average_transaction": 200.38331210205925,
+        "balance": 180.9341405952014,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x57a6afb41e771ddb38bd20e69ba03876554c733a",
+        "average_transaction": 196.9019869601377,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x45c960d3342f778939bd4e121c0d07bf3692ca23",
+        "average_transaction": 185.58795405080372,
+        "balance": 171.5459050881373,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xac06abec94492352e11efa69814aa74acf3b9dd9",
+        "average_transaction": 192.5675898863621,
+        "balance": 164.4395031382788,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xd40729a84dab70f0e34d9b7fd18b4bd761313d38",
+        "average_transaction": 192.56919651225593,
+        "balance": 156.8281410427229,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xa021bb724b4d88f84e896b1e6b0677dcf2d34879",
+        "average_transaction": 197.28515209401593,
+        "balance": 191.09702840218415,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xd586f184532b21b9f95cffe0f3a476dadb02acdf",
+        "average_transaction": 176.77449539168987,
+        "balance": 0,
+        "history": 240,
+        "fico": 145
+    },
+    {
+        "address": "0x4d11a6149da60285ccdd2293ea30fb46be039cf5",
+        "average_transaction": 204.44858425637804,
+        "balance": 169.19213748969077,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x69366ef9e4dac1861ddb287b0bc68d5e544ee10d",
+        "average_transaction": 192.6729079409473,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x85f5b414aaf84ec70cb54cc84682cfe9e69d3c29",
+        "average_transaction": 197.2726743664954,
+        "balance": 149.9080009835871,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x62ef0fb975f5c0d290c7839f48dcb6557c0d5eea",
+        "average_transaction": 195.89069361748733,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x9202e779b4c7146d0d25290d4ea4a033136be84a",
+        "average_transaction": 197.98052822281207,
+        "balance": 175.23345214007344,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x5bef81a089b9a399b161b103a2faaf556eda0bde",
+        "average_transaction": 188.54382956182602,
+        "balance": 182.67415211621977,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xf4653813193ec76833d4850920927b96cc2a3ce1",
+        "average_transaction": 195.89909864159205,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0xd8f1df0a1fbf5ffcad3b651320be66d08bdb327e",
+        "average_transaction": 194.0807437993799,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xb757c583038d5cf478a862780ca6725a067791c1",
+        "average_transaction": 191.0023514135963,
+        "balance": 183.7764965695257,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x0cfa07755ea190e59336b0ca2cd2e03cd4535492",
+        "average_transaction": 198.41182559252232,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xae47363f1065a91958a554f8328e47b2dbd057ae",
+        "average_transaction": 190.9471506524202,
+        "balance": 133.22219294733918,
+        "history": 240,
+        "fico": 190
+    },
+    {
+        "address": "0x586feb6ef329501672a14264c636e7c250c2dac8",
+        "average_transaction": 200.4781717981405,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0xb07db6b10915860dadaa3fda65c4e0ba686d77b1",
+        "average_transaction": 194.93454748194824,
+        "balance": 177.9220064731126,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x4326fd92d2468f3727202b14bd90c921de16aa3e",
+        "average_transaction": 199.09337606920062,
+        "balance": 177.45756341777803,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xa4afd7234623bcaebb3d1b1745d6f9eb5cb7a0f6",
+        "average_transaction": 192.88381478205417,
+        "balance": 174.471688818176,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xf5da60ac3a8660ee6aea035c042f223946a98595",
+        "average_transaction": 193.10960657361568,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xb730d3908b9b83ac4d876ae5c70aa9804f39694a",
+        "average_transaction": 189.790371358922,
+        "balance": 187.7866596182295,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x579f0a6ed5db1a814640d35e6b7d56ac6507d6e5",
+        "average_transaction": 194.74602024841846,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x0f3e6cc9a1d55f13b0391354f22d64931de37d7c",
+        "average_transaction": 194.384783583251,
+        "balance": 178.12557453786542,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x1b38a75f8dde2953775612f6338d231ae129135a",
+        "average_transaction": 186.9896401402599,
+        "balance": 185.30151125783718,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x2586312eba7801795ded8f1cfdd99c935c59a858",
+        "average_transaction": 187.38999126421493,
+        "balance": 185.98131150893784,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xfe02ec7f86e080ccb6ed835dc18cffa5a78b3f73",
+        "average_transaction": 185.45658713146992,
+        "balance": 169.98684549410055,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x9cdbac2a2f790bbba7b1d1588ee76366ed871c24",
+        "average_transaction": 197.25025315211934,
+        "balance": 183.08413656903093,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x2edbf48eb7b51d0441ec24bd3a3fb7491be152da",
+        "average_transaction": 178.42081435863722,
+        "balance": 159.3960270901016,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x82e280b27279c04d1da3ed2865919fc544b3c718",
+        "average_transaction": 0,
+        "balance": 159.0308998699194,
+        "history": 240,
+        "fico": 131
+    },
+    {
+        "address": "0xbe1c77215da25ee9b7c3751194c0944c5d274509",
+        "average_transaction": 200.56613577945546,
+        "balance": 179.21027010624468,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x8786cb3682cb347ae1226b5a15e991339a877dfb",
+        "average_transaction": 194.1641323078984,
+        "balance": 179.4002968581586,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xb134c95cfc957e30e8d6e9f823277b3253c6205a",
+        "average_transaction": 192.33500200063133,
+        "balance": 197.6770974928392,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xca9b86f1c1d826e3bf687f39a2029d3428d49d00",
+        "average_transaction": 197.13339820942895,
+        "balance": 140.46139734679917,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0x4086e0e1b3351d2168b74e7a61c0844b78f765f2",
+        "average_transaction": 201.4254901000126,
+        "balance": 168.54866624621758,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x8982a82a77eaf1cd6f490b67ad982304ecc590af",
+        "average_transaction": 203.25005395283497,
+        "balance": 171.8011062899436,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xada75e2b1002abcf8cd2afea734ca85db85f0faa",
+        "average_transaction": 193.25116447849683,
+        "balance": 163.047254515748,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x5f9ba02001884d8717d8bef29cf151f96e7603c3",
+        "average_transaction": 200.80633995691068,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0x2f9679090063f941313ca647a8dd925c08bad0b2",
+        "average_transaction": 201.12411972216492,
+        "balance": 156.6651798055488,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xea484e3cc3dd55a7b12a6176583bf41934b6fed6",
+        "average_transaction": 199.73183751427288,
+        "balance": 173.05241989425323,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xfd26f25d6588b752a90e600aff038a654d64a42c",
+        "average_transaction": 203.7508992192808,
+        "balance": 183.96604371016298,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xf67c1ee9bb2b188db00bda55db933079331ddd9e",
+        "average_transaction": 181.51344152991553,
+        "balance": 157.70824979281744,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x698c3ffaec89c93d1cbdb71d4b543357b8962c52",
+        "average_transaction": 192.4841104426004,
+        "balance": 168.7070942292649,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xf7b53da3353e1cb3050768b0b77d65581dc564c5",
+        "average_transaction": 172.97586937638908,
+        "balance": 161.17762275489358,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0xc7cc8934d6a65155f83374f12092b2689bcf1d9d",
+        "average_transaction": 171.96936902152862,
+        "balance": 157.46634198937576,
+        "history": 240,
+        "fico": 191
+    },
+    {
+        "address": "0xacdc50e4eb30749555853d3b542bfa303537ada5",
+        "average_transaction": 187.63478464066324,
+        "balance": 169.8597516957514,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xc11098e261cf77704616a84e7b0d28673639f8e7",
+        "average_transaction": 171.05543445072075,
+        "balance": 0,
+        "history": 240,
+        "fico": 143
+    },
+    {
+        "address": "0x1f5afd04b87fdd7d3f24d13a5042b2257eb8fbbe",
+        "average_transaction": 186.94210206198832,
+        "balance": 147.63427993562937,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0xf0f32c3c8def7b43caa14fed5752abc5381c8374",
+        "average_transaction": 186.26523855575925,
+        "balance": 169.38182635908592,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xe3c6e1eb66e78ed0edbc32ab0c9bd72783a129f8",
+        "average_transaction": 187.63753649479327,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xdcc9c9c3e87db2e7f3423923b5b6448915ff1688",
+        "average_transaction": 211.81504490830892,
+        "balance": 0,
+        "history": 240,
+        "fico": 158
+    },
+    {
+        "address": "0x04702aa25c79d77f917a0d69c5f7b6754baa6c12",
+        "average_transaction": 197.39370347234637,
+        "balance": 171.00282002740212,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x7be7d52c65a2a2e81d744d64e4ffd6744122bb7d",
+        "average_transaction": 195.99924185727082,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x55d8fdecb6f61250179ad6615069e2ca5ca1274c",
+        "average_transaction": 200.46006341019122,
+        "balance": 182.3092498840361,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x7f91258d55030a7a159fdaf0241bcb170867afa6",
+        "average_transaction": 199.0146638018396,
+        "balance": 172.78443323880447,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xbb11f27141cccbc09db55ea8055468ca22b979a8",
+        "average_transaction": 193.57341093654742,
+        "balance": 175.3543872008346,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x0be0f09adc19334286027ed281b612a49893cd9a",
+        "average_transaction": 200.7934676318315,
+        "balance": 181.4816766333865,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x92f9e8482cce6d4080817a9e6d81531d0a8ed0f4",
+        "average_transaction": 181.08568075963308,
+        "balance": 156.17393634122504,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0xef80076c22cae68b2055eaa36f0e479191b8f645",
+        "average_transaction": 196.52062975402555,
+        "balance": 169.9861467724682,
+        "history": 241,
+        "fico": 204
+    },
+    {
+        "address": "0xe269fdf6cc4e4265c5074b988b8b6d219dc03933",
+        "average_transaction": 176.03144310646869,
+        "balance": 148.72954174821646,
+        "history": 240,
+        "fico": 190
+    },
+    {
+        "address": "0xd65413e4bec1c23da7deee26ae8e53f4c142051b",
+        "average_transaction": 181.69514643155378,
+        "balance": 174.10034324121784,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x297f7d6aba09538acb8ee1e72f60b63ad59ce6c0",
+        "average_transaction": 206.5267434592484,
+        "balance": 169.73499249582304,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x78bc76bd2fb225c2662663c74d479cd263464390",
+        "average_transaction": 190.6076468246119,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xfa2233e7458d02202b527995d003a65f4fe00421",
+        "average_transaction": 187.02363326935026,
+        "balance": 172.6280028035655,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x2486bc5d229741877864f114b130fe4c119aec4a",
+        "average_transaction": 192.8202040726043,
+        "balance": 168.84788440937567,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x1773854be2978541cc7e4e1bb4349de77fd83dbd",
+        "average_transaction": 191.82034682760224,
+        "balance": 133.2231531828742,
+        "history": 240,
+        "fico": 191
+    },
+    {
+        "address": "0xdc7f6eff7a85ea1406a1a0473ff0ba82e7009c0e",
+        "average_transaction": 200.0959745616491,
+        "balance": 166.4905671969829,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xee2aed0dfb146708c7c5ccbfdf9dcbcef8322c1d",
+        "average_transaction": 198.8627921940866,
+        "balance": 180.19434673049957,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x71ebf7c53dc9d6595f6c128c54d51df45a301f10",
+        "average_transaction": 205.1824009928704,
+        "balance": 169.11630247474986,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x8442a78af8c1a599e79743ec9816173a940b8467",
+        "average_transaction": 187.5257041810878,
+        "balance": 193.26827314710079,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x041c0ecdbcbdd5fc20cdd58a3843914f0ddac1fb",
+        "average_transaction": 187.9479795356957,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0x3b07f8650f1eb0e9b0eff8ac695ac06639425d53",
+        "average_transaction": 197.62475052307087,
+        "balance": 169.05010298784208,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x4645aeb3f4de1b5e4f454346b961514387bbfc9a",
+        "average_transaction": 188.68901239783543,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x9bf87ed3d81b03221df7f14a270ae7e5801be058",
+        "average_transaction": 191.06235999886758,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xf347bbe2397be933ef8d28f65f5bf4a944b74321",
+        "average_transaction": 196.17290444651798,
+        "balance": 178.7031746889595,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xe00f59ab30238c546a18bbff7587954218958fef",
+        "average_transaction": 179.04392840343135,
+        "balance": 0,
+        "history": 240,
+        "fico": 146
+    },
+    {
+        "address": "0xfe0c83887a515b4db10b1ae36b077e0f622d1800",
+        "average_transaction": 168.7763175789199,
+        "balance": 0,
+        "history": 240,
+        "fico": 143
+    },
+    {
+        "address": "0x27a3deb48be91537e19fe85497f92c9c8c21d87f",
+        "average_transaction": 198.55335274705004,
+        "balance": 173.3940331660472,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x7edd5eedbee19d74e8cb88c66f5896469a6d5869",
+        "average_transaction": 187.34738687233605,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xadaa407ab760c7d8b297c56d8a5431a169af6f91",
+        "average_transaction": 193.83622587752888,
+        "balance": 174.23204933781602,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x0cbf7620e543c0b3a65cb327bbc9bf18cff35aac",
+        "average_transaction": 178.6513731168712,
+        "balance": 179.5683885778914,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x0ae69edda4a52070f458bff934f42652eace6a7d",
+        "average_transaction": 207.670169791276,
+        "balance": 0,
+        "history": 240,
+        "fico": 156
+    },
+    {
+        "address": "0x86648ca7838b684a4eaee8b9da18c08831d38565",
+        "average_transaction": 204.1406893319007,
+        "balance": 185.05789508326836,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0x317ee35a01393ca21189d648772afcb5e6590a41",
+        "average_transaction": 190.4955304452055,
+        "balance": 173.5649795396634,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xe1d16eb49b9d10127e92881e6f6fcf1e6adab135",
+        "average_transaction": 209.97700563219723,
+        "balance": 0,
+        "history": 240,
+        "fico": 157
+    },
+    {
+        "address": "0x372d5ab34d594a68a01ddc78b0464add52d3a242",
+        "average_transaction": 207.44198845576108,
+        "balance": 156.4231635139564,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x27c27151f9bc6330b767bab8dcada11a253ccb8c",
+        "average_transaction": 196.49503386261418,
+        "balance": 180.15590184562726,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x7dac5d2359382bb971e0f9ee686795e885697fa1",
+        "average_transaction": 190.51610507716737,
+        "balance": 169.80232093234798,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x74582579cebffc7ae88c45f192003db51c1692cb",
+        "average_transaction": 189.42174289831271,
+        "balance": 171.87726718013778,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x23d392b88e18a45e7df3d18998ed77577bdebdf0",
+        "average_transaction": 193.3424285452439,
+        "balance": 173.57651949884144,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x43d39dca211212716d0086d4142a2ab3a1665062",
+        "average_transaction": 189.18544446920137,
+        "balance": 177.6627561977028,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x513bb587b14725c4a9c2a7ecf0f76de51ea73f51",
+        "average_transaction": 200.07370070634755,
+        "balance": 189.298784964313,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xc2d600c148007724ec953b6a44d27a8466e93279",
+        "average_transaction": 201.29242604374576,
+        "balance": 137.9935154758872,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0x0b325efcfc464e5bad91ca4df2990de698643610",
+        "average_transaction": 200.07482469833877,
+        "balance": 165.73450960076727,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x25f7de0240eccd80d1b743f2e1bf5be2a9caa3a2",
+        "average_transaction": 186.01438288292405,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xac89a53c033d5146da003ee21ac8fadb5ac34db3",
+        "average_transaction": 202.5748026109386,
+        "balance": 178.5294507262103,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x99623b14fe5383b5493b50a7a3146c9e3727a881",
+        "average_transaction": 183.51196999942698,
+        "balance": 137.7290819497127,
+        "history": 240,
+        "fico": 189
+    },
+    {
+        "address": "0xbd7dbea1c6ef46f7d13bd71ba9706ab67edc869b",
+        "average_transaction": 203.82593228796668,
+        "balance": 0,
+        "history": 240,
+        "fico": 155
+    },
+    {
+        "address": "0xd739ec618244650af7efff8bd8d0edcb190175b5",
+        "average_transaction": 175.97416626902188,
+        "balance": 183.53251638034362,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x50754e8fb5fb0a89b7771763386d3ce8b786a908",
+        "average_transaction": 190.7981707164484,
+        "balance": 162.0703833510892,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xc43d52cb282ca630744049e370d9f22f009a300b",
+        "average_transaction": 202.46650980830077,
+        "balance": 175.75279609072942,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x229016f22e2c9eab63c14cd8905ab397fc9d0705",
+        "average_transaction": 207.6133993075965,
+        "balance": 172.86063250904408,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x09cf915e195af33fa7b932c253352ae9fbdb0106",
+        "average_transaction": 197.47663764094315,
+        "balance": 180.81898077122855,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x169efe5ffa1011fd90ee8438785e49066ed8ed31",
+        "average_transaction": 210.04313776996665,
+        "balance": 186.7918654425888,
+        "history": 240,
+        "fico": 213
+    },
+    {
+        "address": "0x47a5e0070eba6ed3140fc54ec79d9bb9c8c430c0",
+        "average_transaction": 196.20103732177168,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x3948dfc171aa254d568c87c3ff58c4beb0a97ec9",
+        "average_transaction": 190.29579339793474,
+        "balance": 171.3154396486624,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x1d8fc78c062d0ab7db80b3c901e1a430ae526ec8",
+        "average_transaction": 186.69201421068868,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0x91a6ebd9fa4da694a652eb4f62ead38a65a9d525",
+        "average_transaction": 197.07142055231319,
+        "balance": 177.43938236620448,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x0bd03fc9b415925d8feb0cd4eceef09f6fbe198d",
+        "average_transaction": 197.73878156851183,
+        "balance": 156.77831243473372,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xe44799ef334df157e0f8e2855e5ebebdbc02b299",
+        "average_transaction": 200.61922196306585,
+        "balance": 181.6240367690382,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x647e5c76c02dd81224d2d7352483ee00d66d28b1",
+        "average_transaction": 194.70923993755508,
+        "balance": 155.41726651630492,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x272c19bec8e387b89f21d6b72070c23ab16b1abb",
+        "average_transaction": 198.7881875431785,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xf0fd912cb1d5a916cb2ea102926d1b7cc4a5c5cc",
+        "average_transaction": 195.01633182835053,
+        "balance": 169.45555371344602,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x00f928a6adc7c345ef919fe5a8be2458580ef9f6",
+        "average_transaction": 193.27749336237736,
+        "balance": 181.7010934734493,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xab1580ee6c593d1ae69c8e80592160bcdb9f6c97",
+        "average_transaction": 206.970671309156,
+        "balance": 179.76845525262806,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xf794a0880f0ae7854b6e894c965c907ed05a5c3b",
+        "average_transaction": 204.73560524949312,
+        "balance": 179.3993536382563,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0xd964f8aa1168bd1816c1703c8e1c4f0a50b4c105",
+        "average_transaction": 192.1052547367287,
+        "balance": 144.89676324109982,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x7f962d53a868c7dd0bec7ef4ffe68914d2033a07",
+        "average_transaction": 194.17493705596792,
+        "balance": 172.8857819197414,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xfd95baa8eec36c2d1a4121b72ccf11f7f2ecf414",
+        "average_transaction": 189.2881444311462,
+        "balance": 157.69871398148587,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x8e996187c04d3eae70fc1d5c60891f5bb63f0887",
+        "average_transaction": 193.0448722381227,
+        "balance": 161.13701695170758,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xcae95deb15e9c86aa5c33a817243670567052cfc",
+        "average_transaction": 197.18182231765806,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x0204478625ab8ce5dd256b73e0dda2beef1a2384",
+        "average_transaction": 196.46504633648186,
+        "balance": 169.959122431183,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x131c9ea4828c8a16bfea5f0c823813b320b35d21",
+        "average_transaction": 201.79583454658984,
+        "balance": 173.010303624409,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x9ed5a98c758c1c23af466a91f69672ee7696c654",
+        "average_transaction": 188.4230359395154,
+        "balance": 168.49449280992246,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x049397bd8325e0089decf676eb42c134ea65bb90",
+        "average_transaction": 201.14345038125202,
+        "balance": 166.1774938504513,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x75749aaa3944483fe5b4d1e7083f31d3fae76145",
+        "average_transaction": 198.71461417169994,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x133aaa8f5f62fff2589dcff8f1252350f03a6c22",
+        "average_transaction": 193.1215953543887,
+        "balance": 164.86626464464825,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x7179a13430cd4bd9dd95d29a13a527ce60805bb0",
+        "average_transaction": 203.26755806111584,
+        "balance": 174.28249499291752,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xc24baf03e41428b4e7b5f97cb2bf8dbe4636fafe",
+        "average_transaction": 187.42018489921847,
+        "balance": 160.32575611168963,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x4fa244cb3c59f53f537a66db9384198adea62d0a",
+        "average_transaction": 192.109728888549,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x506d7e58554626016b0a939aa2d18e405eaa3ad0",
+        "average_transaction": 204.28196446420645,
+        "balance": 188.07769300658535,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0xbfe283886cee82188d5dde1cf6dc8b928cc78b6d",
+        "average_transaction": 202.77174346551135,
+        "balance": 169.83420207673362,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xbd2f8490089726dbd46657a28f7d8d64bb439c61",
+        "average_transaction": 200.04092796081318,
+        "balance": 159.6452936541866,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xa6b79db6c45d7ff8c51842b05c7582ca987aabb3",
+        "average_transaction": 193.60341061474594,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xf3027f2aad8eeceb6cf544d691795150168e8013",
+        "average_transaction": 205.1538996202214,
+        "balance": 192.46276824744197,
+        "history": 240,
+        "fico": 213
+    },
+    {
+        "address": "0x72fffb86290459e13a37006af29eb3522370366e",
+        "average_transaction": 195.16713859721796,
+        "balance": 159.14460049617742,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xbe0c211da3d2e1557ae1824712c2e8377a9cdd10",
+        "average_transaction": 189.21939830045375,
+        "balance": 172.57116119012449,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x05b6a80cc203b5c4c3828deffde0be92dad731c3",
+        "average_transaction": 200.0632258986439,
+        "balance": 170.9203442340944,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xede3235ccd29c05664625ffe338e6add03484361",
+        "average_transaction": 195.17822714771978,
+        "balance": 150.81169016014098,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x66666ad6b459f54a68419363385316abb8a857ff",
+        "average_transaction": 208.30772485727914,
+        "balance": 170.38962753592799,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xde8589960da34eefb00ca879d8cc12b11f52cb12",
+        "average_transaction": 171.36188794484548,
+        "balance": 196.0314927619079,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x2f2b38a3918e1e7f6b971db37c0ef07698eb01ae",
+        "average_transaction": 188.579684965615,
+        "balance": 174.21106938241078,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x62b7694190f4453d91523c35b02d561d0d48d423",
+        "average_transaction": 190.25259673010837,
+        "balance": 172.77170069150085,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xa3eb11f77be3efe1ccbd6518d0004e8c54b2118c",
+        "average_transaction": 196.18305483799338,
+        "balance": 177.9281907707517,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x6288dd78ddb511093e127e6a46a7a7826d2ab2bd",
+        "average_transaction": 192.01846915970452,
+        "balance": 161.67727122573024,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x14e7a20ac31062bc5c8d27d067cfaeec97d6757c",
+        "average_transaction": 192.17819903349653,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x3ae845c77c52bb8d74e5293cd81d3ddd1ef12a77",
+        "average_transaction": 196.8990456518128,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x5f68774bac4ac94cae8046bbb136f2c7c694c3fe",
+        "average_transaction": 196.71664339940628,
+        "balance": 165.70732187802182,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x5c4beb5b24001713b8d41e5ad2e30b6e5f6ba4e5",
+        "average_transaction": 197.95098147567126,
+        "balance": 171.38454443854874,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x966e277ff43a5d9123db237ef50b4629bcb206eb",
+        "average_transaction": 205.71862324066328,
+        "balance": 166.7870801335269,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x07a90947c139a13878b863a628ee45a0432d0f60",
+        "average_transaction": 179.76808337338065,
+        "balance": 165.67208519785328,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0xe24283e2f22a7a4360dab185dfeb62190d13742f",
+        "average_transaction": 175.90618948206577,
+        "balance": 166.40575540475677,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0xa2913653daf4601a7edc83589582cfacb9748bdd",
+        "average_transaction": 200.70397122223216,
+        "balance": 161.3595252346168,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x5293765579595e78d12db12dbe9c6e1a078aa753",
+        "average_transaction": 199.21504838181818,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x7cd97655da96366906f9b0b3dd54128faa49247e",
+        "average_transaction": 199.82281954040604,
+        "balance": 164.74524778271638,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x5898d8c4fd325d47943ac7ca5dd08ea71ab70bae",
+        "average_transaction": 199.28900038718905,
+        "balance": 161.27726204096928,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x264958e33d1cbe31912370c5897398b271ffd316",
+        "average_transaction": 197.46408549353043,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xd1ddc0f727935f376ba6f9f51b1e0fb481c25fb1",
+        "average_transaction": 198.29622590118973,
+        "balance": 176.45209239541234,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x5e2c1da57d9c9ac6c73d8ab02054c01c303d621f",
+        "average_transaction": 203.13946162583733,
+        "balance": 166.78147489708851,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x1ce119d63756484b333ea0b44d5d6bd2d52b9189",
+        "average_transaction": 175.1584188226046,
+        "balance": 166.50725745400064,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0xa002bfe4e5e3525ca714d667c90456739cf2daf4",
+        "average_transaction": 197.7236255499673,
+        "balance": 187.17365435935676,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x7b1fe043c145f38c7618954ab484c4dec68ee1ce",
+        "average_transaction": 198.26950902452256,
+        "balance": 181.64980238553483,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x17f3320f2c1d26b8d5a6508632bf69adb90d3f21",
+        "average_transaction": 168.53936649614212,
+        "balance": 157.8933896283313,
+        "history": 240,
+        "fico": 190
+    },
+    {
+        "address": "0x7c94228e51db7f3ea7d185601b61704fefb20366",
+        "average_transaction": 196.21390474203596,
+        "balance": 133.3085421758371,
+        "history": 240,
+        "fico": 192
+    },
+    {
+        "address": "0x429898764b0c3d9345eca7d47fa5800696326ddd",
+        "average_transaction": 191.79724063905354,
+        "balance": 174.15792463855706,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xea77664e3ca938d60db05dfd7eb0e9afa780e6ae",
+        "average_transaction": 194.44489252242394,
+        "balance": 165.40128550629356,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x7c5e46daf340901a9db4b6aa6c8641d9f328d671",
+        "average_transaction": 166.1308582061271,
+        "balance": 0,
+        "history": 240,
+        "fico": 142
+    },
+    {
+        "address": "0xf33af93e92c493ab3ac6ee663befc0f081ec58b1",
+        "average_transaction": 181.7580163284828,
+        "balance": 169.7855957138248,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xda1d74fab05a8d21f3c761d75c8d42a84943aa07",
+        "average_transaction": 194.22081806401798,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x98dad7fcbe0dba89a2e64317981d101b33988203",
+        "average_transaction": 193.85398543651266,
+        "balance": 164.1642825484525,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x56e5272a583d3b490062f69e183d4a510d007ef8",
+        "average_transaction": 202.64352393183398,
+        "balance": 176.86755317904667,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xdce3fd67be5fdfdfc1d9d232945f927a17d607f0",
+        "average_transaction": 176.9015538439802,
+        "balance": 148.0514567290953,
+        "history": 240,
+        "fico": 190
+    },
+    {
+        "address": "0xf6b8066bdfffb53a933b80faacefa63341f1b6c4",
+        "average_transaction": 201.12564072318355,
+        "balance": 178.16393351157848,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x1729f93e3c3c74b503b8130516984ced70bf47d9",
+        "average_transaction": 181.11943180863793,
+        "balance": 172.46879798193274,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x213804dfed42db93faad0d58dc446f3483433caa",
+        "average_transaction": 178.06927432606858,
+        "balance": 0,
+        "history": 240,
+        "fico": 146
+    },
+    {
+        "address": "0x5f855b107afaadf722cf9611b82167a272b4acb0",
+        "average_transaction": 188.302407795828,
+        "balance": 175.67477975668126,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x80d6f776d20e6fb4e42bcea828b597bc9951fc20",
+        "average_transaction": 195.94850526721902,
+        "balance": 169.22727514121166,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x579486693591d6cf9581880d5935083bdda58be7",
+        "average_transaction": 188.47499260026478,
+        "balance": 145.20667182335535,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0xda42775513bc047e2465f7fb82705910a64742f2",
+        "average_transaction": 191.5299767676335,
+        "balance": 173.3053622380644,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x32eb5d0db55155e2a32e329c90b62fb6ea16789f",
+        "average_transaction": 194.21179176417357,
+        "balance": 173.23721394270797,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x34452e9712906203ca7ae2acc990ef85eb0e9ce2",
+        "average_transaction": 189.67745147505926,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xe137c43e2088c95f59ab67a85d6e3843093d9c07",
+        "average_transaction": 199.18850605210505,
+        "balance": 159.7059096499013,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x20af5f9f52cecb3d87cbf38156c636c1e60d0299",
+        "average_transaction": 194.16313998575282,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x689344530931896b327932ca8c4df6fb401b13e0",
+        "average_transaction": 212.31314020731958,
+        "balance": 159.78643563113496,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x42b45a385788e0a9551a2bb9f511080464595abb",
+        "average_transaction": 205.55244940378415,
+        "balance": 172.24839881744947,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x14dcae28535c4ede02d0b7ec4d5257f7326e0bf9",
+        "average_transaction": 198.9668857518906,
+        "balance": 180.68812339895817,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x8843ccd14855927deb28ffb2c0060139987a25d2",
+        "average_transaction": 188.11263363468183,
+        "balance": 174.37355205484926,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xbeb910ae193dc54411747ac236e67d221ff3f1d7",
+        "average_transaction": 192.76323860340742,
+        "balance": 166.41647965515577,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x707c9976e11567e0387ff577e03438dc205e241e",
+        "average_transaction": 186.6743802355851,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0x6dead4d7b9070569b19c6b6b6c041958f242cda6",
+        "average_transaction": 182.99758258411615,
+        "balance": 0,
+        "history": 240,
+        "fico": 148
+    },
+    {
+        "address": "0xded3edc123a828881bce03cc05e8e7e788f28b14",
+        "average_transaction": 177.10507104925782,
+        "balance": 0,
+        "history": 240,
+        "fico": 145
+    },
+    {
+        "address": "0x996ed00830580b1f194516484365488ad8b7f3c4",
+        "average_transaction": 201.38556537580794,
+        "balance": 168.55545797500855,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x3577385c7b5a52d8fba230ac88c416cd97fa3ccc",
+        "average_transaction": 205.81001942645415,
+        "balance": 184.73367050496935,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0xc73bf841824641e4d0b7d4c7df3fc82b5d8b8c0f",
+        "average_transaction": 194.99368692545616,
+        "balance": 153.1717866353736,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x496b64c82974df76aaa9fc65f184c55f3519a6ab",
+        "average_transaction": 202.72001190322334,
+        "balance": 179.8369981575923,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x653c1979b03deaae421f463a11e7f051f3dbd050",
+        "average_transaction": 188.48702472960926,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xaea50a8f00931153280428656c7b2cc50b5cda87",
+        "average_transaction": 175.78468963244023,
+        "balance": 171.30392177093225,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0xd3387573b6d437ec2be879af52d76c092671785a",
+        "average_transaction": 191.21322128813512,
+        "balance": 180.01919935158182,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x9495459f04b38335b3704954cf17bd4a6db7b5de",
+        "average_transaction": 183.60989491667013,
+        "balance": 172.33200460317548,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xa8de8b84c4f4aab4bd90447872c48b6522def7dc",
+        "average_transaction": 185.04917258220433,
+        "balance": 176.94986670630055,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xc08a2078a6b2be81f92183deb09e7ceb159b8f37",
+        "average_transaction": 188.69407935733489,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0x5d77fda0d7577a65f73f06687ca39c53e452fc0f",
+        "average_transaction": 199.4154286914514,
+        "balance": 173.17705176244476,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x4f246272cf7f66005c965f8a36e132c2a1ed34fd",
+        "average_transaction": 202.83529941816764,
+        "balance": 186.32455478228522,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0x0c1621832cc321199cd006dec862ffa64f0bce12",
+        "average_transaction": 198.33151464185164,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xb4c9b3cc1d965d35d9a0cf1b3fbec72164d77566",
+        "average_transaction": 197.45445181807295,
+        "balance": 169.00981589199844,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xdeaca7b0ce6d734eb5757d5103b40f8b4b482aa1",
+        "average_transaction": 201.24877620870456,
+        "balance": 169.95536129063268,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xb1db096de2a713dbb6950dff2eafb76521881863",
+        "average_transaction": 193.1159542204165,
+        "balance": 175.24305001579074,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x803c2f7754c802f21a85520c43550f9755f43717",
+        "average_transaction": 186.18215997316187,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0x8f76c99c3e96371edeffe35657137a5236646512",
+        "average_transaction": 215.17689327599425,
+        "balance": 179.4384966724154,
+        "history": 240,
+        "fico": 213
+    },
+    {
+        "address": "0x32449f0f8f1774f8d1661b8992a50a27f91fa15c",
+        "average_transaction": 193.0549338888124,
+        "balance": 178.82380656087804,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x2989708d74ac40838e9e785d360b562c16dceb66",
+        "average_transaction": 201.6457659430991,
+        "balance": 171.47484880027864,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x32e20b88b38bcd8f78ed7b73bc2f0b0261be3db0",
+        "average_transaction": 198.6305856610916,
+        "balance": 157.46470649162154,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xb756aea7b4440b509d3b7f491545c44a752bdeca",
+        "average_transaction": 200.7048321221733,
+        "balance": 170.50184803151865,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x847d08eeb3ee375a74ef2142397189eb7c26d645",
+        "average_transaction": 196.32142614567925,
+        "balance": 156.72710829389894,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xf83542b42df0aa4bee2006d3c03f8c80cd815a18",
+        "average_transaction": 185.62071241951816,
+        "balance": 180.04789493881643,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x8c5ab41f52ff50e38b95ac48f55c8f90eb15815d",
+        "average_transaction": 198.1947603669761,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x908664ca2d2942665a0e9de85ba094da03d816dc",
+        "average_transaction": 204.5817370572341,
+        "balance": 167.42628182291878,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x1d3a2bee84540fa53f11f98820fae1f6967cb16a",
+        "average_transaction": 213.62671546587197,
+        "balance": 178.1239524360801,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0xdb851d1c7bd4370089bf04641e628cab2a538586",
+        "average_transaction": 186.71815640771527,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0x8bcde2722b4f0dceb4a76186abf50d0a7b894426",
+        "average_transaction": 189.6684594620841,
+        "balance": 170.82463057911355,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x09aea652006f4088d389c878474e33e9b15986e5",
+        "average_transaction": 191.09281147866002,
+        "balance": 151.39668182081277,
+        "history": 240,
+        "fico": 196
+    },
+    {
+        "address": "0x4c6d6207527fcd75521a35519371c56a3841c73d",
+        "average_transaction": 203.08192469787159,
+        "balance": 180.30837439078982,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x63d164191f89cef6958f010dec05803cbf125a17",
+        "average_transaction": 202.63094539939655,
+        "balance": 142.28810845011353,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0xcd041ba479812a3fb310f9553ce57830cb2e351d",
+        "average_transaction": 193.63896542930578,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0xe6c17b66405b7a8c36f0b0b983da9e8b6d1aac65",
+        "average_transaction": 174.3042689629793,
+        "balance": 0,
+        "history": 240,
+        "fico": 145
+    },
+    {
+        "address": "0xe39915eee3ec7a587834ae52ed2129636e837288",
+        "average_transaction": 191.0297600781929,
+        "balance": 170.00000977532642,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0xb9050dd2286e1eb806921ffbf162231d5ae97d64",
+        "average_transaction": 176.4146794197361,
+        "balance": 181.22786099812285,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x8293d7c54844ab082fea3d3fb87456fb0e60baa9",
+        "average_transaction": 199.37512043195335,
+        "balance": 164.5862751215717,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x295aa428fb185f5202e38a717f9e47499b861c2f",
+        "average_transaction": 192.63286702652545,
+        "balance": 163.1868732687612,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x54e6bd20dd8d1584576b1c8968e4ffdac54d71f7",
+        "average_transaction": 202.17210820786076,
+        "balance": 0,
+        "history": 240,
+        "fico": 154
+    },
+    {
+        "address": "0xa3b6e8ccf02dacab450b5c3e16088f0f6cdb77f1",
+        "average_transaction": 189.36354550410522,
+        "balance": 162.2919232625823,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x92a4f58009df9eac5f2af6d05977683639f0060e",
+        "average_transaction": 192.23155120931887,
+        "balance": 186.06366412485318,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0xe236c772efb7e6ef151ae30af17cc266b7affbe8",
+        "average_transaction": 204.29752057315778,
+        "balance": 176.19963964870857,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x2627eee0ca2b84743a91b01d1a38c887be6c6ca9",
+        "average_transaction": 190.0155257473246,
+        "balance": 169.7374541535639,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x8d803e9347141d02293b9535aff95f3a2b836c96",
+        "average_transaction": 188.07109063176625,
+        "balance": 147.15066931328894,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x6d5c09bcdd3eb4338af878d0b33a89ae0c0bf9f1",
+        "average_transaction": 196.4016977355988,
+        "balance": 169.6043510018045,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x328e94062af9d0812ffdcbeaf4578a8e1d8fd25f",
+        "average_transaction": 200.69068145588335,
+        "balance": 180.19943175954822,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x884addff055b839f4460e79d2c5f3eaf33e03f5c",
+        "average_transaction": 198.58991581143994,
+        "balance": 187.22854475653435,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x64aece4369132eb3786c24bc0cbac7cdbe054a5e",
+        "average_transaction": 190.19617015877628,
+        "balance": 157.6891166241905,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x288e1a5d8b1933fc424001426b2a2507bd203185",
+        "average_transaction": 190.23535394736888,
+        "balance": 183.7677224159787,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xa1c5de944293cb5c969d15f1a540ddc7d3999769",
+        "average_transaction": 195.33512039090027,
+        "balance": 161.35774592151142,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x0dbb0cff7c9515fc56d352ee37aeeefdf43b25fe",
+        "average_transaction": 185.49726040027312,
+        "balance": 175.48551659238717,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x44537b669941848d57dfea313db3a40bb1487ee6",
+        "average_transaction": 194.00793842704724,
+        "balance": 174.14246002779862,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xc5cada224a94f6e267dc0e1826519d75bcc4f2b5",
+        "average_transaction": 195.43801736923515,
+        "balance": 176.34113601559483,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x05fde7ab49351adb5ae8beb21f8d9a5ac9d3238c",
+        "average_transaction": 196.64145441162302,
+        "balance": 173.54758534570726,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0x3e26163c5f8f9716816febb5ae21ac7835b5fa1b",
+        "average_transaction": 188.73750455118397,
+        "balance": 175.11856920794386,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0xea5abc1a1689984ebfdc41130886bdaeb5c24078",
+        "average_transaction": 208.49725564495338,
+        "balance": 183.42621808021948,
+        "history": 240,
+        "fico": 212
+    },
+    {
+        "address": "0xef0daf0efa0018aaa4e081b631a3da765cd4d258",
+        "average_transaction": 189.11174426302193,
+        "balance": 147.01994999716652,
+        "history": 240,
+        "fico": 194
+    },
+    {
+        "address": "0x2cbb06b639cc547cd05cda887db471192063cc11",
+        "average_transaction": 191.2565508257231,
+        "balance": 158.3195280702923,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x06b1ff3e9e3b0062ae7a34a72bc01ea99550baea",
+        "average_transaction": 191.0996960653105,
+        "balance": 175.11241383732238,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x961f5c1907f838924bf7548b5ae77ca4f6afc207",
+        "average_transaction": 190.38212787415776,
+        "balance": 0,
+        "history": 240,
+        "fico": 150
+    },
+    {
+        "address": "0xcf82237905a4f5eb58b5c6d741438c27062b2135",
+        "average_transaction": 192.79728266310624,
+        "balance": 179.4821729380671,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0xc35d8291c0025232319c175a5900bc4fe8aca25d",
+        "average_transaction": 204.77378688347738,
+        "balance": 169.46971513347626,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0xd23756661552393233c2e70b220c1074fae995dd",
+        "average_transaction": 183.8626819073606,
+        "balance": 164.22559383616556,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0xe913c0f42fb60f85bd43bdddaf4e004135ef318c",
+        "average_transaction": 190.09637587576782,
+        "balance": 174.75128953531492,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x3802513a89584afaadce7914aab617791e69d6b7",
+        "average_transaction": 200.5814845254102,
+        "balance": 151.40905388361634,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x9554a1cf07a20616778821db521baacaa79a6631",
+        "average_transaction": 198.85853623683397,
+        "balance": 182.06586874960175,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x7fbd91fe8163b86ef80f1702380267f07c5eb2ac",
+        "average_transaction": 198.75949020908462,
+        "balance": 166.10515172408927,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xe73097a4ee7297354a1ab6f34ea8ee6a2997699c",
+        "average_transaction": 182.58471743055856,
+        "balance": 0,
+        "history": 240,
+        "fico": 147
+    },
+    {
+        "address": "0xf64983be62dd02a2f15f5e466e53651460e23da1",
+        "average_transaction": 201.4767476772732,
+        "balance": 177.96370919293534,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x8f356a3f9a4af459fd3c0797995b222bc6340da4",
+        "average_transaction": 198.09464479102442,
+        "balance": 180.28225525495458,
+        "history": 246,
+        "fico": 209
+    },
+    {
+        "address": "0x8b4ca4bd58bd015b09533718f44376c4ffdc240f",
+        "average_transaction": 195.35824328296246,
+        "balance": 160.8400358877124,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0xc54bd1f466f2f4f36de59f4024e86885386d6f1b",
+        "average_transaction": 207.82275171808382,
+        "balance": 177.19746619761023,
+        "history": 240,
+        "fico": 209
+    },
+    {
+        "address": "0x1f0e7f5ef8ebb3bd865feba7a42b12582b75783f",
+        "average_transaction": 199.05902403134485,
+        "balance": 178.9109344319189,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x54997d2655f7084a3089b77549457eaec0fcc439",
+        "average_transaction": 185.4124139688771,
+        "balance": 166.90292300872514,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x04db57e22d9b51a65e9562fe06d611d19647b87a",
+        "average_transaction": 195.1557764154302,
+        "balance": 182.8189997103843,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x130732809e16862edc644dcb9b8280291d856663",
+        "average_transaction": 186.16590715924866,
+        "balance": 162.06977178371292,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0xab319c67c239041783f3d08ba0153b2952fb4f9f",
+        "average_transaction": 198.2825834600196,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0xafd19cc1032feca16be14696a1a459ab842412f4",
+        "average_transaction": 191.4810186792569,
+        "balance": 0,
+        "history": 240,
+        "fico": 151
+    },
+    {
+        "address": "0x03e72e73ab4b40c5f3ac06eebc4d2820779c082f",
+        "average_transaction": 201.70363092907235,
+        "balance": 169.88030303470825,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x7e31e7dd083a0e93ee4223a48424ca607a54fd32",
+        "average_transaction": 194.15826481287468,
+        "balance": 174.3775082941903,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xdd44154ab44b0119c1f941ac6619319bb955ac49",
+        "average_transaction": 207.57147129851404,
+        "balance": 173.0440464201175,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0xe3fed2e2e55bcb29a007a6cc27740669a9f40441",
+        "average_transaction": 211.39558792799386,
+        "balance": 175.6652709762163,
+        "history": 240,
+        "fico": 210
+    },
+    {
+        "address": "0xcd707ed10a16575e0f1dd681db8219116c763ae4",
+        "average_transaction": 192.33944994217137,
+        "balance": 174.621526679231,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0x44e7a7b7f4a8c5949686c574f340ec3d6bb352ce",
+        "average_transaction": 196.83993501096745,
+        "balance": 168.55357233180516,
+        "history": 240,
+        "fico": 203
+    },
+    {
+        "address": "0xf69269c8bed1981b5532e2aaeadfbab34dc596fe",
+        "average_transaction": 192.18102497944113,
+        "balance": 178.46717119632484,
+        "history": 240,
+        "fico": 204
+    },
+    {
+        "address": "0xa44459a2ebf80ca373ae85df1f8c41c15d026618",
+        "average_transaction": 199.1003546472939,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x74732675beec5e6b2506a76629c1a182250474f4",
+        "average_transaction": 192.02762388386643,
+        "balance": 192.63294356817687,
+        "history": 240,
+        "fico": 208
+    },
+    {
+        "address": "0x06cb0e0ab8df642b11de570944714f43a413c32f",
+        "average_transaction": 197.3991484054951,
+        "balance": 163.0948363516811,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x59620009bae825322b3125b357a7acb4f33edb5b",
+        "average_transaction": 197.4426246393562,
+        "balance": 161.87578863697698,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x2a26f1e1e664ab9e7dfc7826d6ab884f034cdd4a",
+        "average_transaction": 173.26276050380096,
+        "balance": 162.03535550501383,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x6e1adf1c6c7730615e8a8a3185c47eb0682b626b",
+        "average_transaction": 192.30684735605863,
+        "balance": 153.02222666317664,
+        "history": 240,
+        "fico": 197
+    },
+    {
+        "address": "0x0cae1e6c5e8b4109097e9e900e9f9554cc26b66c",
+        "average_transaction": 201.7326914825104,
+        "balance": 168.85560206375473,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x90abfe835fb8abe84d42750361a30fc21d3d301e",
+        "average_transaction": 193.06563048271673,
+        "balance": 185.50274190889783,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x4fd100088ea1e093ab81317403b8ce7fe2083af6",
+        "average_transaction": 182.99050755434226,
+        "balance": 156.69688708056208,
+        "history": 240,
+        "fico": 195
+    },
+    {
+        "address": "0x98aaacd991099c3261719204452d1effec66df78",
+        "average_transaction": 192.14900414872932,
+        "balance": 168.39896905669687,
+        "history": 240,
+        "fico": 201
+    },
+    {
+        "address": "0x03581cd9d8c98024c7e0533461ac3e6ee03b1414",
+        "average_transaction": 200.76998104205003,
+        "balance": 172.00692498938864,
+        "history": 240,
+        "fico": 205
+    },
+    {
+        "address": "0x5838e0b0e77858d6667c5f27a0bb575c959d7e86",
+        "average_transaction": 197.71981664625412,
+        "balance": 150.35257370921067,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0x9c4378c6056efb5e18aa943024c488a9cb22c20c",
+        "average_transaction": 198.40402666319187,
+        "balance": 176.9307543065982,
+        "history": 240,
+        "fico": 206
+    },
+    {
+        "address": "0x16a54d1314ac89c53f3ab96b5d75fdb39e23700a",
+        "average_transaction": 196.91018001574218,
+        "balance": 180.49905728105756,
+        "history": 240,
+        "fico": 207
+    },
+    {
+        "address": "0x864ac8f1087550ecfde6fa75a1e5db16acccffbd",
+        "average_transaction": 195.4072295411238,
+        "balance": 0,
+        "history": 240,
+        "fico": 152
+    },
+    {
+        "address": "0x82da472fd9f28df97d9e6211b78b2d92bd391286",
+        "average_transaction": 202.1514912593259,
+        "balance": 158.47763571314184,
+        "history": 240,
+        "fico": 202
+    },
+    {
+        "address": "0x473047481598d9d293c79f7cfd8017874d835573",
+        "average_transaction": 182.2271175457388,
+        "balance": 170.5058844204244,
+        "history": 240,
+        "fico": 198
+    },
+    {
+        "address": "0xd7f371eb4d2c9e4f97444e61a8603d0447e3a89c",
+        "average_transaction": 180.35285967537533,
+        "balance": 173.45622399367306,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0x09428ba97f4568702aab9d70dba483db42a8227e",
+        "average_transaction": 187.78136049810763,
+        "balance": 0,
+        "history": 240,
+        "fico": 149
+    },
+    {
+        "address": "0xaeb3a2fe93cad8d63a0de448b6e6e393aaa40e9e",
+        "average_transaction": 192.3529766312077,
+        "balance": 160.18798661420036,
+        "history": 240,
+        "fico": 199
+    },
+    {
+        "address": "0xcbc117ca10c481ecfd243053cbbaf3a68efd6ef5",
+        "average_transaction": 201.35759002866752,
+        "balance": 154.9066127945073,
+        "history": 240,
+        "fico": 200
+    },
+    {
+        "address": "0x7160a467bb6efa41546aa10e3667263be3298361",
+        "average_transaction": 198.03766322672732,
+        "balance": 0,
+        "history": 240,
+        "fico": 153
+    },
+    {
+        "address": "0x2ca93b656ac58e7dc286383ebbb25f2e41168676",
+        "average_transaction": 193.75393790553144,
+        "balance": 139.24305721545835,
+        "history": 240,
+        "fico": 193
+    },
+    {
+        "address": "0x21e7df6406453a8e470e8c87c7e4fa6a97df7b9d",
+        "average_transaction": 200.76991670519772,
+        "balance": 192.413645340869,
+        "history": 240,
+        "fico": 211
+    },
+    {
+        "address": "0x70be25ab3c55e4a98b28b414e1eb98209f5c6a87",
+        "average_transaction": 180.8768837308029,
+        "balance": 166.21416998059914,
+        "history": 240,
+        "fico": 197
+    }
+]
