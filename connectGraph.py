@@ -120,18 +120,50 @@ class MyGraph:
             msg = 'MATCH(n) WHERE n.address = "{}" DETACH DELETE(n)'.format(hex(address))
             self.session.run(msg)
     
-    # @classmethod
-    # def add_relationship(type)
+    @classmethod
+    def add_own_token_relationship(self,type1="Wallet",type2="NFT",address1,address2):
+        msg = '''MATCH (w:Wallet), (token:NFT)
+                WHERE w.address = "{}" AND token.address = "{}"
+                CREATE (w)-[rel:OWN]->(token)'''.format(hex(address1),hex(address2))
+        self.session.run(msg)
+
+    @classmethod
+    def add_guarantee_relationship(self, father_address, son_address):
+        msg = '''MATCH (w1:Wallet), (w2:Wallet)
+                WHERE w.address = "{}" AND w2.address = "{}"
+                CREATE (w)-[rel:GUARANTEE]->(w2)'''.format(hex(father_address),hex(son_address))
+        self.session.run(msg)
+
+    @classmethod
+    def add_transfer_relationship(self, sender, receiver, **rel_properties):
+        match_msg = 'MATCH (w1:Wallet), (w2:Wallet) WHERE w.address = "{}" AND w2.address = "{}'.format(hex(sender),hex(receiver))
+        
+        if(rel_properties is not None):
+            rel_msg = ""
+            for prop,value in rel_properties.items():
+                rel_msg += "{}: {},".format(prop,value)
+            
+            rel_msg.replace(rel_msg[-1],"") # delete comma at the end of properties declaration
+            all_rel_msg = 'create (w1)-[rel:TRANSFER {' + rel_msg + '}]->(w2)'
+            
+            print(match_msg + all_rel_msg)
+            self.session.run(self.session.run(match_msg + all_rel_msg))
+        els:
+            rel_msg = 'create (w1)-[rel:TRANSFER]->(w2)'
+            
+            print(match_msg + rel_msg)
+            self.session.run(match_msg + rel_msg)
+
 
     # @classmethod
     # def search_30_latest_transactions(address):
         
 if __name__ == '__main__':
     new_graph = MyGraph("bolt://localhost:7687","neo4j","3.14159265")
-    new_graph.add_wallet_node_from_json()
+    #new_graph.add_wallet_node_from_json()
     
-    print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
-    print(new_graph.search_by_balance(250))
-    print(new_graph.search_by_fico_index(215))
+    #print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
+    #print(new_graph.search_by_balance(250))
+    #print(new_graph.search_by_fico_index(215))
     new_graph.close()
 
