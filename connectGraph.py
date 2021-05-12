@@ -3,25 +3,22 @@
 import json
 from neo4j import GraphDatabase
 class MyGraph:
-    #constructor
+
     @classmethod
     def __init__(self, uri, username, password):
         self.driver = GraphDatabase.driver(uri=uri, auth=(username,password))
         self.session = self.driver.session()
     
-    #close session
     @classmethod
     def close(self):
         self.driver.close()
         
     
-    #add one node to graph
     @classmethod
     def add_one_node(self, node_type="Wallet", **kwargs):
-        # CREATE statement
-        msg = "create (n:{}".format(node_type) + "{"
 
-        # if import data is none   
+        msg = "create (n:{}".format(node_type) + "{"
+ 
         assert kwargs is not None, "no data to import"
         
         count = 0 
@@ -34,7 +31,7 @@ class MyGraph:
                 count += 1 
             else:
                 msg += ("{}:{}".format(key,value) + "})")
-        #print(msg)
+
         self.session.run(msg)
         
     @classmethod
@@ -102,15 +99,15 @@ class MyGraph:
         print("No wallets reach this balance value {}".format(balance_value))
 
     @classmethod
-    def seacrh_by_fico(self, fico):
-        count_msg = "MATCH (n:{}) WHERE n.fico >= {} RETURN(n)".format("Wallet",fico)
-        
-        accounts = self.session.run(count_msg)
-        
-        list_wallets = [acc for acc in accounts.data()]
-        
-        if len(list_wallets) != 0:
-            return list_wallets
+    def search_by_fico_index(self, fico):
+        msg = "MATCH (n:{}) WHERE n.fico >= {} RETURN(n)".format("Wallet",fico)
+
+        results = self.session.run(msg)
+
+        list_accounts = [acc for acc in results.data()]
+
+        if len(list_accounts) != 0:
+            return list_accounts
         
         print("No wallets reach this fico {}".format(fico))
     
@@ -131,10 +128,10 @@ class MyGraph:
         
 if __name__ == '__main__':
     new_graph = MyGraph("bolt://localhost:7687","neo4j","3.14159265")
-    #new_graph.add_wallet_node_from_json()
+    new_graph.add_wallet_node_from_json()
     
-    #print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
-    #print(new_graph.search_by_balance(250))
-    print(new_graph.search_by_fico(100))
+    print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
+    print(new_graph.search_by_balance(250))
+    print(new_graph.search_by_fico_index(215))
     new_graph.close()
 
