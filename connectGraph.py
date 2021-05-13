@@ -121,7 +121,7 @@ class MyGraph:
             self.session.run(msg)
     
     @classmethod
-    def add_own_token_relationship(self,type1="Wallet",type2="NFT",address1,address2):
+    def add_own_token_relationship(self, address1, address2,type1="Wallet", type2="NFT"):
         msg = '''MATCH (w:Wallet), (token:NFT)
                 WHERE w.address = "{}" AND token.address = "{}"
                 CREATE (w)-[rel:OWN]->(token)'''.format(hex(address1),hex(address2))
@@ -148,15 +148,42 @@ class MyGraph:
             
             print(match_msg + all_rel_msg)
             self.session.run(self.session.run(match_msg + all_rel_msg))
-        els:
+        else:
             rel_msg = 'create (w1)-[rel:TRANSFER]->(w2)'
             
             print(match_msg + rel_msg)
             self.session.run(match_msg + rel_msg)
 
+    @classmethod
+    def search_30_latest_transfer_transaction(self,address):
+        msg = '''match (sender:Wallet)-[rel:TRANSFER]->(receiver:Wallet)
+        WHERE sender.address = "{}"
+        RETURN rel LIMIT 30
+        ORDER BY rel.timestamp'''.format(hex(address))
 
-    # @classmethod
-    # def search_30_latest_transactions(address):
+        results = self.session.run(msg)
+
+        list_tx = [tx for tx in results.data()]
+
+        if len(list_tx) == 0:
+            return "No transaction"
+        
+        return list_tx
+    
+    def search_30_latest_arrival_transaction(self,address):
+        msg = '''match (sender:Wallet)-[rel:TRANSFER]->(receiver:Wallet)
+        WHERE receiver.address = "{}"
+        RETURN rel LIMIT 30
+        ORDER BY rel.timestamp'''.format(hex(address))
+
+        results = self.session.run(msg)
+
+        list_tx = [tx for tx in results.data()]
+
+        if len(list_tx) == 0:
+            return "No transaction arrival"
+        
+        return list_tx
         
 if __name__ == '__main__':
     new_graph = MyGraph("bolt://localhost:7687","neo4j","3.14159265")
@@ -165,5 +192,7 @@ if __name__ == '__main__':
     #print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
     #print(new_graph.search_by_balance(250))
     #print(new_graph.search_by_fico_index(215))
+
+
     new_graph.close()
 
