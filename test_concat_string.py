@@ -14,3 +14,4 @@ str = '''MATCH (w:Wallet), (token:NFT)
 WHERE w.address = "{}" AND token.address = "{}"
 CREATE (w)-[rel:OWN]->(token)'''.format(1234,5678)
 print(str)
+#relation ship : wallet transfer token to another wallet ( transfer have its properties)

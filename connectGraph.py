@@ -1,5 +1,4 @@
-#write code for connecting graph
-#write function to import data, update data, delete data, retrieve data
+
 import json
 from neo4j import GraphDatabase
 class MyGraph:
@@ -34,6 +33,14 @@ class MyGraph:
 
         self.session.run(msg)
         
+    @classmethod
+    def add_nft_node_from_json(self, filename='nft.json'):
+        f = open("own.json")
+        data = json.load(f)
+
+        for d in data:
+            self.add_one_node(node_type="NFT", address=d['address'], latest_price=d['latest_price'])
+
     @classmethod
     def add_wallet_node_from_json(self, filename1='acc.json',filename12='fico1.json'):
         f1 = open('acc.json')
@@ -121,13 +128,6 @@ class MyGraph:
             self.session.run(msg)
     
     @classmethod
-    def add_own_token_relationship(self, address1, address2,type1="Wallet", type2="NFT"):
-        msg = '''MATCH (w:Wallet), (token:NFT)
-                WHERE w.address = "{}" AND token.address = "{}"
-                CREATE (w)-[rel:OWN]->(token)'''.format(hex(address1),hex(address2))
-        self.session.run(msg)
-
-    @classmethod
     def add_guarantee_relationship(self, father_address, son_address):
         msg = '''MATCH (w1:Wallet), (w2:Wallet)
                 WHERE w.address = "{}" AND w2.address = "{}"
@@ -135,24 +135,44 @@ class MyGraph:
         self.session.run(msg)
 
     @classmethod
+    def add_own_relstionship(self, owner, nft_address):
+        msg = 'MATCH (w1:Wallet), (w2:NFT) WHERE w1.address = "'+ owner + '"' + ' AND w2.address = "' + nft_address + '" CREATE (w1)-[rel:OWN]->(w2)'
+        self.session.run(msg)
+
+    @classmethod
     def add_transfer_relationship(self, sender, receiver, **rel_properties):
-        match_msg = 'MATCH (w1:Wallet), (w2:Wallet) WHERE w.address = "{}" AND w2.address = "{}'.format(hex(sender),hex(receiver))
+        msg = 'MATCH (w1:Wallet), (w2:Wallet) WHERE w1.address = "{}" AND w2.address = "{}"'.format(sender,receiver)
         
         if(rel_properties is not None):
             rel_msg = ""
+            count = 1
             for prop,value in rel_properties.items():
-                rel_msg += "{}: {},".format(prop,value)
+                if(count == len(rel_properties)):
+                    rel_msg += "{}: {}".format(prop,value)
+                else:
+                    rel_msg += "{}: {},".format(prop,value)
             
-            rel_msg.replace(rel_msg[-1],"") # delete comma at the end of properties declaration
             all_rel_msg = 'create (w1)-[rel:TRANSFER {' + rel_msg + '}]->(w2)'
             
-            print(match_msg + all_rel_msg)
-            self.session.run(self.session.run(match_msg + all_rel_msg))
+            msg += all_rel_msg
+            self.session.run(msg)
         else:
             rel_msg = 'create (w1)-[rel:TRANSFER]->(w2)'
             
-            print(match_msg + rel_msg)
-            self.session.run(match_msg + rel_msg)
+            msg+= rel_msg
+            self.session.run(msg)
+
+    def add_relationship_from_json(self, filename1="relationship.json", filename2="own.json"):
+        f1 = open(filename1)
+        f2 = open(filename2)
+
+        data1 = json.load(f1)
+        data2 = json.load(f2)
+
+        for d1 in data1:
+            self.add_transfer_relationship(d1['from'], d1['to'], amount=d1['amount'])
+        for d2 in data2:
+            self.add_own_relstionship(d2['owner'], d2['address'])
 
     @classmethod
     def search_30_latest_transfer_transaction(self,address):
@@ -188,11 +208,22 @@ class MyGraph:
 if __name__ == '__main__':
     new_graph = MyGraph("bolt://localhost:7687","neo4j","3.14159265")
     #new_graph.add_wallet_node_from_json()
+    new_graph.add_relationship_from_json()
+    #new_graph.add_nft_node_from_json()
     
     #print(new_graph.search_by_address(0x788cabe9236ce061e5a892e1a59395a81fc8d62c))
     #print(new_graph.search_by_balance(250))
     #print(new_graph.search_by_fico_index(215))
 
-
+    """
+    new_graph.add_one_node(node_type="NFT",
+                            address="0x12345",
+                            created_at="",
+                            owner="0x13562"
+                            old_owner="0x56789",
+                            latest_price="")
+    """
+    
     new_graph.close()
+    
 
